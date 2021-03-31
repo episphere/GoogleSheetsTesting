@@ -24,7 +24,7 @@ for(let i = 0; i < files.length; i++){
             for(let i = 0; i < fileNames.length; i++){
                 console.log('fileName: ' + fileNames[i])
                 console.log('currJSON: ' + JSON.stringify(currJSON[fileNames[i]]))
-                fs.writeFileSync('./' + fileNames[i] + '.json', JSON.stringify(currJSON[fileNames[i]],null, 2));
+                fs.writeFileSync('./' + fileNames[i], JSON.stringify(currJSON[fileNames[i]],null, 2));
                 
             }
 
