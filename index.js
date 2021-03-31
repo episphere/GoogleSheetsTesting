@@ -20,7 +20,7 @@ for(let i = 0; i < files.length; i++){
             }
             let currFileContents = fs.readFileSync('./masterJSON.json');
             let currJSON = JSON.parse(currFileContents)
-            let fileNames = Object.keys(currFileContents);
+            let fileNames = Object.keys(currJSON);
             for(let i = 0; i < fileNames.length; i++){
                 console.log('fileName: ' + fileNames[i])
                 console.log('currJSON: ' + JSON.stringify(currJSON[fileNames[i]]))
