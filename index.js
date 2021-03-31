@@ -9,9 +9,9 @@ for(let i = 0; i < files.length; i++){
     if(file == 'masterJSON.json'){
         const fs = require('fs');
         //clear files
-        fs.readdirSync('./').forEach(file => {
+        fs.readdirSync('./jsons/').forEach(file => {
             if(file.includes('.json')){
-                fs.unlink('./' + file, (err) => {
+                fs.unlink('./jsons/' + file, (err) => {
                     if(err){
                         console.error(err)
                         return
@@ -22,7 +22,7 @@ for(let i = 0; i < files.length; i++){
             let currJSON = JSON.parse(currFileContents)
             let fileNames = Object.keys(currJSON);
             for(let i = 0; i < fileNames.length; i++){
-                fs.writeFileSync('./' + fileNames[i], JSON.stringify(currJSON[fileNames[i]],null, 2));
+                fs.writeFileSync('./jsons/' + fileNames[i], JSON.stringify(currJSON[fileNames[i]],null, 2));
                 
             }
 
