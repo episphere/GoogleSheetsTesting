@@ -18,17 +18,22 @@ for(let i = 0; i < files.length; i++){
                     }
                 })        
             }
+            let currFileContents = fs.readFileSync('./masterJSON.json');
+            let currJSON = JSON.parse(currFileContents)
+            console.log(JSON.stringify(currJSON))
+            let fileNames = Object.keys(currFileContents);
+            for(let i = 0; i < fileNames.length; i++){
+                console.log('fileName: ' + fileNames[i])
+                console.log('currJSON: ' + JSON.stringify(currJSON[fileNames[i]]))
+                fs.writeFileSync('./' + fileNames[i] + '.json', JSON.stringify(currJSON[fileNames[i]],null, 2));
+                
+            }
+
+            changed = true;
+            i = files.length;
         })
         
-        let currFileContents = fs.readFileSync('./masterJSON.json');
-        let currJSON = JSON.parse(currFileContents)
-        let fileNames = Object.keys(currFileContents);
-        for(let i = 0; i < fileNames.length; i++){
-            fs.writeFileSync(fileNames[i] + '.json', JSON.stringify(currJSON[fileNames[i]],null, 2));
-        }
-
-        changed = true;
-        i = files.length;
+        
     }
     
 }
