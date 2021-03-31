@@ -1,0 +1,12 @@
+{
+  "Primary Source": "192505768.json",
+  "Secondary Source": "883203566.json",
+  "Question Text": "When were you born",
+  "Variable Label": "Birth Date for USer",
+  "Variable Name": "RcrtSI_BirthDateTesting_V1r0",
+  "Variable Type": "String",
+  "Format/Value": "YYYYMMDD",
+  "PII": "104430631.json",
+  "conceptId": "562330126.json",
+  "@context": ""
+}

@@ -1,0 +1,20 @@
+{
+  "conceptId": 650516960,
+  "Primary Source": "819848608.json",
+  "Secondary Source": "123496044.json",
+  "Question Text": "Collection Setting",
+  "Variable Label": "Collection Setting",
+  "Variable Name": "BioSpm_Setting_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": 1,
+  "Format/Value": [
+    "534621077.json",
+    "664882224.json",
+    "103209024.json"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Notes": "Autopopulated based on dashboard to input collection information.",
+  "Dictionary": "Biospecimen Clinical , Biospecimen Research",
+  "@context": ""
+}
