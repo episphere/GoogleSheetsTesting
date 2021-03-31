@@ -1,0 +1,20 @@
+{
+  "conceptId": 990693169,
+  "Primary Source": "332961895.json",
+  "Secondary Source": "117044491.json",
+  "Question Text": "Payment issued by NORC or UoC",
+  "Variable Label": "NORC or UoC Payment Issued",
+  "Variable Name": "SMPaym_JointPaymIssued_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": 1,
+  "Format/Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Notes": "Repeated measures associated with Round. For display on study manager dashboard indicates whether payment issued",
+  "Derivation Notes": "If BioFin_UoCPayment_v1r0 equals 1 or HDPaym_PaymIssued_v1r0 equals 1 then SMPaym_JointPaymIssued_v1r0 equals 1 else 0",
+  "Dictionary": "Study Manager",
+  "@context": ""
+}
