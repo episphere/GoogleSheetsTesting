@@ -1,0 +1,18 @@
+{
+  "conceptId": 538619788,
+  "Primary Source": "237817859.json",
+  "Secondary Source": "861315814.json",
+  "Question Text": "Reason not given",
+  "Variable Label": "Reason not given",
+  "Variable Name": "HdRef_NotGiven_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": 1,
+  "Format/Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Dictionary": "Master Data Dictionary",
+  "@context": ""
+}

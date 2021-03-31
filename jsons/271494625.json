@@ -1,0 +1,32 @@
+{
+  "conceptId": 271494625,
+  "Primary Source": "332961895.json",
+  "Secondary Source": "581036703.json",
+  "Question Text": "Disposition codes for enrollment status",
+  "Variable Label": "Enrollment status",
+  "Variable Name": "SMMet_EnrollStatus_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": 1,
+  "Format/Value": [
+    "238916532.json",
+    "165539416.json",
+    "232581561.json",
+    "593616423.json",
+    "289729076.json",
+    "800366201.json",
+    "116215611.json"
+  ],
+  "Notes": "Developed for enrollment status on Study Manager dashboard.  Row of derivation is on same row as corresponding response variable.",
+  "Derivation Notes": [
+    "RcrtSI_SignedIn_v1r0 = 1 AND RcrtCS_Consented_v1r0 = 0",
+    "RcrtCS_Consented_v1r0 = 1 AND RcrtUP_Submitted_v1r0 = 0 AND RcrtV_Verification_v1r0 = 0",
+    "RcrtUP_Submitted_v1r0 = 1 AND RcrtV_Verification_v1r0 = 0",
+    "RcrtV_Verification_v1r0 = 1 or RcrtV_Verification_v1r0 = 2 or RcrtV_Verification_v1r0 = 3",
+    "RcrtV_Verification_v1r0 = 2",
+    "RcrtV_Verification_v1r0 = 1",
+    "SMMet_FullyEnrolled_v1r0 = 1"
+  ],
+  "Dictionary": "Master Data Dictionary",
+  "Date added or modified": "2021-03-25T04:00:00.000Z",
+  "@context": ""
+}
