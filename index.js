@@ -9,9 +9,9 @@ for(let i = 0; i < files.length; i++){
     if(file == 'masterJSON.json'){
         const fs = require('fs');
         //clear files
-        fs.readdirSync('./jsons/').forEach(file => {
+        fs.readdirSync('./').forEach(file => {
             if(file.includes('.json')){
-                fs.unlink('./jsons/' + file, (err) => {
+                fs.unlink('./' + file, (err) => {
                     if(err){
                         console.error(err)
                         return
