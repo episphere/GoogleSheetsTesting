@@ -17,13 +17,13 @@
     "970716952.json",
     "398561594.json"
   ],
-  "Required": "No",
-  "PII": "No",
-  "Notes": "Only display if MHGROUP9 = Testical remvoal surgery",
   "Connect Id Array": [
-    null,
+    0,
     1,
     88
   ],
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP9 = Testical remvoal surgery",
   "@context": ""
 }

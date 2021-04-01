@@ -8,6 +8,7 @@
   "Variable Label": "American Indian or Alaska Native",
   "Variable Name": "SrvBOH_AlaskaNative_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": 1,
+  "Connect Value for Select all that apply questions": 0,
   "Variable Type": "Num",
   "Variable Length": 1,
   "Connect Value": [

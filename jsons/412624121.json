@@ -34,10 +34,8 @@
     "598242454.json",
     "438483626.json"
   ],
-  "Required": "No",
-  "PII": "No",
   "Connect Id Array": [
-    null,
+    0,
     "1= Some high school grades 9-11",
     2,
     3,
@@ -47,5 +45,7 @@
     7,
     55
   ],
+  "Required": "No",
+  "PII": "No",
   "@context": ""
 }

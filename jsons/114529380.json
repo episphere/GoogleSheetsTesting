@@ -24,15 +24,15 @@
     "438483626.json",
     "746038746.json"
   ],
-  "Required": "No",
-  "PII": "No",
   "Connect Id Array": [
-    null,
+    0,
     1,
     2,
     3,
     55,
     99
   ],
+  "Required": "No",
+  "PII": "No",
   "@context": ""
 }

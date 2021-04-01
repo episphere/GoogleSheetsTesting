@@ -30,11 +30,8 @@
     "746328729.json",
     "452963767.json"
   ],
-  "Required": "No",
-  "PII": "No",
-  "Notes": "[DISPLAY HAIRFEM IF SEX= 02 and GEN= 02]",
   "Connect Id Array": [
-    null,
+    0,
     1,
     2,
     3,
@@ -44,5 +41,8 @@
     7,
     8
   ],
+  "Required": "No",
+  "PII": "No",
+  "Notes": "[DISPLAY HAIRFEM IF SEX= 02 and GEN= 02]",
   "@context": ""
 }
