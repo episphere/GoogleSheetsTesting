@@ -1,0 +1,14 @@
+{
+  "conceptId": 406098499,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "Sibling 1-For your [oldest/next oldest] sibling, please create a nickname or share initials that we can use to refer to this sibling again in future surveys.",
+  "Variable Label": "Sibling 1 name",
+  "Variable Name": "SrvBOH_Sibling1Name_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SIBNAME",
+  "Variable Type": "Char",
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

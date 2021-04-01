@@ -1,0 +1,18 @@
+{
+  "conceptId": 484819765,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "KIDNEY",
+  "Source Question": "989016875.json",
+  "Question Text": "Kidney Stones age",
+  "Variable Label": "Kidney Stones age",
+  "Variable Name": "SrvBOH_KSAge_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "KIDNEY_AGE",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP5 = Kidney Stones",
+  "@context": ""
+}

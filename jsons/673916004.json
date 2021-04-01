@@ -1,0 +1,18 @@
+{
+  "conceptId": 673916004,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "GALLREM",
+  "Source Question": "178353079.json",
+  "Question Text": "cholecystectomy year",
+  "Variable Label": "cholecystectomy year",
+  "Variable Name": "SrvBOH_CholecYear_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "GALLREM_YEAR",
+  "Variable Type": "Year",
+  "Variable Length": 9,
+  "Connect Value": "yyyy",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP9 = tonsillectomy",
+  "@context": ""
+}

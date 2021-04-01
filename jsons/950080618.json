@@ -1,0 +1,16 @@
+{
+  "conceptId": 950080618,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Source Question": "912857732.json",
+  "Question Text": "Weight at 35 years old entry",
+  "Variable Label": "Weight at 35 years old entry",
+  "Variable Name": "SrvBOH_Weight35_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "WEIGHTHIS3",
+  "Variable Type": "Num",
+  "Variable Length": 3,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

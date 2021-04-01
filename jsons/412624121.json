@@ -1,0 +1,51 @@
+{
+  "conceptId": 412624121,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "What is the highest level of school that you have completed?",
+  "Variable Label": "Education level",
+  "Variable Name": "SrvBOH_EducLevel_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": [
+    "EDU",
+    "EDU_TB"
+  ],
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Old Quest Value": [
+    "1 = Grade school grades 1-8",
+    "2 = Some high school grades 9-11=, no diploma",
+    "3 = High school graduate or GED",
+    "4 = Some college, no degree",
+    "5 = Technical or trade school after high school",
+    "6 = Associate?s degree",
+    "7 = College graduate Bachelor?s degree=",
+    "8 = Advanced degree Master?s, Doctorate, etc.=",
+    "9 = Other: Please describe",
+    "9 = Other: Please describe [text box]"
+  ],
+  "Connect Value": [
+    "978204320.json",
+    "984519506.json",
+    "404564707.json",
+    "432193665.json",
+    "890756124.json",
+    "766964355.json",
+    "875342283.json",
+    "598242454.json",
+    "438483626.json"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Connect Id Array": [
+    null,
+    "1= Some high school grades 9-11",
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    55
+  ],
+  "@context": ""
+}

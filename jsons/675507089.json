@@ -1,0 +1,18 @@
+{
+  "conceptId": 675507089,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "ARRHYT",
+  "Source Question": "337278854.json",
+  "Question Text": "Abnormal heart rhythm (arrhythmia) diagnosis year",
+  "Variable Label": "Abnormal heart rhythm (arrhythmia) diagnosis year",
+  "Variable Name": "SrvBOH_AHRYear_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "ARRHYT_YEAR",
+  "Variable Type": "Year",
+  "Variable Length": 4,
+  "Connect Value": "yyyy",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP1 = abnormal heart rhythm",
+  "@context": ""
+}

@@ -1,0 +1,53 @@
+{
+  "conceptId": 759004335,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "Which of these options best describes your household's total combined family income for the <b>past 12 months</b>? This should include money earned from all places: job wages, rent from properties, investment income, social security, disability and/or veteran's benefits, unemployment benefits, workman's compensation, child support payments, alimony, and so on. Answer with the amount before taxes.",
+  "Variable Label": "Income",
+  "Variable Name": "SrvBOH_Income_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "INCOME",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Old Quest Value": [
+    "1 = Less than $10,000/year",
+    "2 = $10,000?$24,999/year",
+    "3 = $25,000?$34,999/year",
+    "4 = $35,000?$49,999/year",
+    "5 = $50,000?$74,999/year",
+    "6 = $75,000?$99,999/year",
+    "7 = $100,000?$149,999/year",
+    "8 = $150,000?$199,999/year",
+    "9 = $200,000 or more/year",
+    "77= Don?t know",
+    "99= Prefer not to answer"
+  ],
+  "Connect Value": [
+    "374508062.json",
+    "976555124.json",
+    "745561936.json",
+    "209571450.json",
+    "212249150.json",
+    "777814771.json",
+    "922395188.json",
+    "913602274.json",
+    "530094502.json",
+    "178420302.json",
+    "746038746.json"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Connect Id Array": [
+    null,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    77,
+    99
+  ],
+  "@context": ""
+}

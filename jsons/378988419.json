@@ -1,0 +1,15 @@
+{
+  "conceptId": 378988419,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "How old is your mother today?",
+  "Variable Label": "Mother age, number",
+  "Variable Name": "SrvBOH_MotherAgeNum_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "MOM_AGE",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

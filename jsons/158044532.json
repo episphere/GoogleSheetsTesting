@@ -1,0 +1,21 @@
+{
+  "conceptId": 158044532,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "MHGROUP4",
+  "Source Question": "900541533.json",
+  "Question Text": "Diabetes",
+  "Variable Label": "Diabetes",
+  "Variable Name": "SrvBOH_Diabetes_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 2,
+  "Connect Value for Select all that apply questions": 1,
+  "Variable Type": "Num",
+  "Variable Length": 1,
+  "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

@@ -1,0 +1,18 @@
+{
+  "conceptId": 861769692,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "DM2",
+  "Source Question": "301679110.json",
+  "Question Text": "Diabetes age",
+  "Variable Label": "Diabetes age",
+  "Variable Name": "SrvBOH_DiabetesAge_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "DM2_AGE",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP4 = diabetes",
+  "@context": ""
+}

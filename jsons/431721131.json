@@ -1,0 +1,26 @@
+{
+  "conceptId": 431721131,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "Who completed this questionnaire?",
+  "Variable Label": "Who completed this questionnaire?",
+  "Variable Name": "SrvBOH_WhoComplQx_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "QXAUTHOR1",
+  "Variable Type": "Num",
+  "Variable Length": 1,
+  "Old Quest Value": [
+    "1 = Completed by study participant",
+    "2 = Completed by someone else on behalf of study participant"
+  ],
+  "Connect Value": [
+    "589702540.json",
+    "275706407.json"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Connect Id Array": [
+    null,
+    1
+  ],
+  "@context": ""
+}

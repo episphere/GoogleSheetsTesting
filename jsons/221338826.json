@@ -1,0 +1,26 @@
+{
+  "conceptId": 221338826,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Source Question": "901432525.json",
+  "Question Text": "WEIGHTHIS percent difference flag between 45 years old and 55 years old ???5% decrease in weight",
+  "Variable Label": "WEIGHTHIS percent difference flag between 45 years old and 55 years old ???5% decrease in weight",
+  "Variable Name": "SrvBOH_PercentDiff4555_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": 1,
+  "Old Quest Value": [
+    "1 = No",
+    "2 = Yes"
+  ],
+  "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Connect Id Array": [
+    null,
+    1
+  ],
+  "@context": ""
+}

@@ -1,0 +1,35 @@
+{
+  "conceptId": 875208305,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "In general, how would you rate your overall health?",
+  "Variable Label": "General health",
+  "Variable Name": "SrvBOH_OverHealth_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "OVERHEALTH",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Old Quest Value": [
+    "1 = Excellent",
+    "2 = Very good",
+    "3 = Good",
+    "4 = Fair",
+    "5 = Poor"
+  ],
+  "Connect Value": [
+    "670680466.json",
+    "565881164.json",
+    "719933364.json",
+    "131550264.json",
+    "138752522.json"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Connect Id Array": [
+    null,
+    1,
+    2,
+    3,
+    4
+  ],
+  "@context": ""
+}

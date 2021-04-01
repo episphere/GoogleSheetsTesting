@@ -1,0 +1,27 @@
+{
+  "conceptId": 936904328,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Variable Label": "Carry weight",
+  "Variable Name": "SrvBOH_CarryWeight_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CARWEIGHT",
+  "Variable Type": "Num",
+  "Old Quest Value": [
+    "1 =Around the chest or shoulders",
+    "2 = Around the waist or stomach",
+    "3 = Around the hips or thighs"
+  ],
+  "Connect Value": [
+    "245893583.json",
+    "506790433.json",
+    "601057066.json"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Connect Id Array": [
+    null,
+    1,
+    2
+  ],
+  "@context": ""
+}

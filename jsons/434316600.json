@@ -1,0 +1,15 @@
+{
+  "conceptId": 434316600,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "What was your employer's for this job?",
+  "Variable Label": "Past employer's for job",
+  "Variable Name": "SrvBOH_Employer_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "EMPLYR2",
+  "Variable Type": "Char",
+  "Variable Length": 70,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "Yes",
+  "@context": ""
+}

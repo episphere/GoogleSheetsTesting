@@ -1,0 +1,18 @@
+{
+  "conceptId": 512110573,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "GOUT",
+  "Source Question": "878094302.json",
+  "Question Text": "Gout year",
+  "Variable Label": "Gout year",
+  "Variable Name": "SrvBOH_GoutYear_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "GOUT_YEAR",
+  "Variable Type": "Year",
+  "Variable Length": 6,
+  "Connect Value": "yyyy",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP6 = Gout",
+  "@context": ""
+}

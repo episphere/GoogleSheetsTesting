@@ -1,0 +1,15 @@
+{
+  "conceptId": 509933065,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "How old were you when you first used prescription medication to treat the severe or ongoing acne?",
+  "Variable Label": "First used acne med age",
+  "Variable Name": "SrvBOH_AcneMedF_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "ACNEMED2",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

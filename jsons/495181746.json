@@ -1,0 +1,18 @@
+{
+  "conceptId": 495181746,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "SHINGLES",
+  "Source Question": "530548878.json",
+  "Question Text": "Shingles (Herpes Zoster) diagnosis year",
+  "Variable Label": "Shingles (Herpes Zoster) diagnosis year",
+  "Variable Name": "SrvBOH_ShinglesYear_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SHINGLES_YEAR",
+  "Variable Type": "Year",
+  "Variable Length": 4,
+  "Connect Value": "yyyy",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP7= SHINGLES",
+  "@context": ""
+}

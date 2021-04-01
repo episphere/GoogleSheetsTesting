@@ -1,0 +1,18 @@
+{
+  "conceptId": 793993848,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "MONO",
+  "Source Question": "915230886.json",
+  "Question Text": "Infectious Mononucleosis (???Mono??? or ???Kissing Disease???) diagnosis year",
+  "Variable Label": "Infectious Mononucleosis (???Mono??? or ???Kissing Disease???) diagnosis year",
+  "Variable Name": "SrvBOH_MonoYear_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "MONO_YEAR",
+  "Variable Type": "Year",
+  "Variable Length": 4,
+  "Connect Value": "yyyy",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP7= Mono",
+  "@context": ""
+}

@@ -1,0 +1,18 @@
+{
+  "conceptId": 288135482,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "CKD",
+  "Source Question": "878094302.json",
+  "Question Text": "Chronic Kidney Disease (Also Known as Chronic Kidney Failure) year",
+  "Variable Label": "Chronic Kidney Disease (Also Known as Chronic Kidney Failure) year",
+  "Variable Name": "SrvBOH_CKDYear_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CKD_YEAR",
+  "Variable Type": "Year",
+  "Variable Length": 5,
+  "Connect Value": "yyyy",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP5 = Chronic Kidney Disease (Also Known as Chronic Kidney Failure)",
+  "@context": ""
+}

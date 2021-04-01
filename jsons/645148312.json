@@ -1,0 +1,21 @@
+{
+  "conceptId": 645148312,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "HRMED2",
+  "Source Question": "814664694.json",
+  "Question Text": "Other: Please describe",
+  "Variable Label": "Other hair loss med",
+  "Variable Name": "SrvBOH_OtherHairMed_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 3,
+  "Connect Value for Select all that apply questions": 55,
+  "Variable Type": "Num",
+  "Variable Length": 1,
+  "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

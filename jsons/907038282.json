@@ -1,0 +1,18 @@
+{
+  "conceptId": 907038282,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "ALTADDRESS2",
+  "Source Question": "857915436.json",
+  "Question Text": "City",
+  "Variable Label": "City",
+  "Variable Name": "SrvBOH_City_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "ALTADDRESS2_CITY",
+  "Variable Type": "Char",
+  "Variable Length": 45,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "Yes",
+  "Notes": "Populated from Google Addresses",
+  "@context": ""
+}

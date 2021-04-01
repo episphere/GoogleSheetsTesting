@@ -1,0 +1,16 @@
+{
+  "conceptId": 747350323,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "RACEETH",
+  "Source Question": "384191091.json",
+  "Question Text": "None of these fully describe me. Please describe [text box]",
+  "Variable Label": "None of these fully describe me. Please describe [text box]",
+  "Variable Name": "SrvBOH_NoneDescribeRE_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "RACEETH_TB",
+  "Variable Type": "Char",
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

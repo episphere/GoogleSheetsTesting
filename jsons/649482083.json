@@ -1,0 +1,18 @@
+{
+  "conceptId": 649482083,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "SIBCANC3A",
+  "Source Question": "384881609.json",
+  "Question Text": "Sibling 1 anal cancer year",
+  "Variable Label": "Sibling 1 anal cancer year",
+  "Variable Name": "SrvBOH_S1AnalCancYr_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SIBCANC3A_YEAR",
+  "Variable Type": "Year",
+  "Variable Length": 4,
+  "Connect Value": "yyyy",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Connect Format/Values - Only display if SIBCANC2= 0",
+  "@context": ""
+}

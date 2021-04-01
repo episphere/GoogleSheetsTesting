@@ -1,0 +1,18 @@
+{
+  "conceptId": 648084034,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "DADCANC3C",
+  "Source Question": "610382315.json",
+  "Question Text": "Dad brain cancer year",
+  "Variable Label": "Dad brain cancer year",
+  "Variable Name": "SrvBOH_DadBraCancYr_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "DADCANC3C_YEAR",
+  "Variable Type": "Year",
+  "Variable Length": 4,
+  "Connect Value": "yyyy",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Connect Format/Values - Only display if DADCANC2= 2",
+  "@context": ""
+}

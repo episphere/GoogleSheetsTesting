@@ -1,0 +1,18 @@
+{
+  "conceptId": 374526317,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "CDD",
+  "Source Question": "624777141.json",
+  "Question Text": "Celiac Disease (also known as Gluten-Sensitive Enteropathy) age",
+  "Variable Label": "Celiac Disease (also known as Gluten-Sensitive Enteropathy) age",
+  "Variable Name": "SrvBOH_CeliacAge_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CDD_AGE",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP3= Celiac Disease",
+  "@context": ""
+}

@@ -1,0 +1,18 @@
+{
+  "conceptId": 206625031,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "SKINCANC3",
+  "Source Question": "904550680.json",
+  "Question Text": "Skin cancer diagnosis age",
+  "Variable Label": "Skin cancer diagnosis age",
+  "Variable Name": "SrvBOH_SkinCancAge_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SKINCANC3_AGE",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display is SKINCANC = 1",
+  "@context": ""
+}

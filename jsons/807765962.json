@@ -1,0 +1,15 @@
+{
+  "conceptId": 807765962,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "At what age did your mother die?",
+  "Variable Label": "Mother age at death, number",
+  "Variable Name": "SrvBOH_MomAgeDeathNum_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "MOMDEATH_num",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

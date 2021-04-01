@@ -1,0 +1,18 @@
+{
+  "conceptId": 787473236,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "HEARTVALV",
+  "Source Question": "660358706.json",
+  "Question Text": "heart valve problemsdiagnosis year",
+  "Variable Label": "heart valve problemsdiagnosis year",
+  "Variable Name": "SrvBOH_HeartValveYr_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "HEARTVALV_YEAR",
+  "Variable Type": "Year",
+  "Variable Length": 4,
+  "Connect Value": "yyyy",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP1 = heart valve problems",
+  "@context": ""
+}

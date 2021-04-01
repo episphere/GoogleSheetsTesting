@@ -1,0 +1,14 @@
+{
+  "conceptId": 724181652,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "How much did you weigh three years ago? If you don't know your exact weight, please make your best guess. [DISPLAY ADDITIONAL TEXT IF SEX= 02 or 03: If you were pregnant three years ago, how much did you weigh before your pregnancy?]",
+  "Variable Label": "Weight 3 years ago",
+  "Variable Name": "SrvBOH_Weight3YAgo_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "WEIGHT3Y",
+  "Variable Type": "Num",
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

@@ -1,0 +1,14 @@
+{
+  "conceptId": 627122657,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "What is your current job title????Please be descriptive. For example, high school math teacher, emergency room nurse, automobile painter.",
+  "Variable Label": "Current job",
+  "Variable Name": "SrvBOH_CurrentJob_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "WORK3",
+  "Variable Type": "Char",
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

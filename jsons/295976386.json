@@ -1,0 +1,21 @@
+{
+  "conceptId": 295976386,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "DADCANC2",
+  "Source Question": "173240848.json",
+  "Question Text": "Prostate",
+  "Variable Label": "Prostate",
+  "Variable Name": "SrvBOH_DProstateCancer_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 17,
+  "Connect Value for Select all that apply questions": 16,
+  "Variable Type": "Num",
+  "Variable Length": 1,
+  "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "@context": ""
+}

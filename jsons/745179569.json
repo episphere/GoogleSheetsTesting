@@ -1,0 +1,18 @@
+{
+  "conceptId": 745179569,
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "PANCREA",
+  "Source Question": "430472084.json",
+  "Question Text": "Pancreatitis age",
+  "Variable Label": "Pancreatitis age",
+  "Variable Name": "SrvBOH_PancreatitisAge_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "PANCREA_AGE",
+  "Variable Type": "Num",
+  "Variable Length": 2,
+  "Connect Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP3= Pancreatitis",
+  "@context": ""
+}
