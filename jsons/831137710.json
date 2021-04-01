@@ -1,12 +1,12 @@
 {
-  "conceptId": "831137710",
+  "conceptId": 831137710,
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Source Question": "706283025.json",
   "Variable Label": "Opposed to genetic testing",
   "Variable Name": "RcrtSI_OptOut_v1r0_GenTest",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "104430631.json",
     "353358909.json"

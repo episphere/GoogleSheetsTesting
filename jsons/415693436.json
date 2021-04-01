@@ -1,5 +1,5 @@
 {
-  "conceptId": "415693436",
+  "conceptId": 415693436,
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Source Question": "706283025.json",
@@ -7,7 +7,7 @@
   "Variable Label": "Please specify __________",
   "Variable Name": "RcrtSI_OptOut_v1r0_specify",
   "Variable Type": "Char",
-  "Variable Length": "800",
+  "Variable Length": 800,
   "Format/Value": "N/A",
   "Required": "No",
   "PII": "No",

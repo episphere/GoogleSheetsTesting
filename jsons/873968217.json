@@ -1,5 +1,5 @@
 {
-  "conceptId": "873968217",
+  "conceptId": 873968217,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Child 1- Is [child initials or nickname/your child]???",
@@ -7,7 +7,7 @@
   "Variable Name": "SrvBOH_Child1FullHalf_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CHILD3",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Old Quest Value": [
     "1 = Your biological child",
     "2 = Adopted",
@@ -18,12 +18,12 @@
     "810290359.json",
     "509607548.json"
   ],
+  "Required": "No",
+  "PII": "No",
   "Connect Id Array": [
-    "0",
+    null,
     1,
     2
   ],
-  "Required": "No",
-  "PII": "No",
   "@context": ""
 }

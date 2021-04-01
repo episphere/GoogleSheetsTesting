@@ -1,12 +1,12 @@
 {
-  "conceptId": "650516960",
+  "conceptId": 650516960,
   "Primary Source": "819848608.json",
   "Secondary Source": "123496044.json",
   "Question Text": "Collection Setting",
   "Variable Label": "Collection Setting",
   "Variable Name": "BioSpm_Setting_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "534621077.json",
     "664882224.json",

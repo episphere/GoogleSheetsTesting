@@ -1,12 +1,12 @@
 {
-  "conceptId": "827220437",
+  "conceptId": 827220437,
   "Primary Source": "192505768.json",
   "Secondary Source": "214456996.json",
   "Question Text": "Healthcare provider",
   "Variable Label": "Site",
   "Variable Name": "RcrtES_Site_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Format/Value": [
     "531629870.json",
     "548392715.json",
@@ -24,6 +24,6 @@
   "PII": "No",
   "Notes": "The National Cancer Institute is included as a site for testing purposes only.",
   "Dictionary": "Recruitment Data Dictionary",
-  "Date added or modified": "Thu Mar 25 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
+  "Date added or modified": "2021-03-25T04:00:00.000Z",
   "@context": ""
 }

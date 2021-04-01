@@ -1,5 +1,5 @@
 {
-  "conceptId": "650332509",
+  "conceptId": 650332509,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "SIBCANC3D",
@@ -9,7 +9,7 @@
   "Variable Name": "SrvBOH_S1BreCancAge_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SIBCANC3D_AGE",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "No",

@@ -1,12 +1,12 @@
 {
-  "conceptId": "271494625",
+  "conceptId": 271494625,
   "Primary Source": "332961895.json",
   "Secondary Source": "581036703.json",
   "Question Text": "Disposition codes for enrollment status",
   "Variable Label": "Enrollment status",
   "Variable Name": "SMMet_EnrollStatus_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "238916532.json",
     "165539416.json",
@@ -27,6 +27,6 @@
     "SMMet_FullyEnrolled_v1r0 = 1"
   ],
   "Dictionary": "Master Data Dictionary",
-  "Date added or modified": "Thu Mar 25 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
+  "Date added or modified": "2021-03-25T04:00:00.000Z",
   "@context": ""
 }

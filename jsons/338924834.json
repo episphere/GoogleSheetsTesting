@@ -1,5 +1,5 @@
 {
-  "conceptId": "338924834",
+  "conceptId": 338924834,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "On a scale of 1 to 10, where 1 means a little pain and 10 means a lot of pain, how would you rate your physical pain?",
@@ -7,7 +7,7 @@
   "Variable Name": "SrvBOH_PainRank_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "PAIN2",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Old Quest Value": [
     "1 = 1 (a little pain)",
     "2 = 2",
@@ -32,8 +32,10 @@
     "700080862.json",
     "616621065.json"
   ],
+  "Required": "No",
+  "PII": "No",
   "Connect Id Array": [
-    "0",
+    null,
     1,
     2,
     3,
@@ -44,7 +46,5 @@
     8,
     9
   ],
-  "Required": "No",
-  "PII": "No",
   "@context": ""
 }

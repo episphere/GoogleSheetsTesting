@@ -1,12 +1,12 @@
 {
-  "conceptId": "480305327",
+  "conceptId": 480305327,
   "Primary Source": "192505768.json",
   "Secondary Source": "273437590.json",
   "Question Text": "Suffix",
   "Variable Label": "Suffix",
   "Variable Name": "RcrtCS_Suffix_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "612166858.json",
     "255907182.json",

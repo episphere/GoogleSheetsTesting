@@ -1,5 +1,5 @@
 {
-  "conceptId": "107060069",
+  "conceptId": 107060069,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Which of these best describes the type of prostate removal surgery that you had?",
@@ -17,13 +17,13 @@
     "500023550.json",
     "398561594.json"
   ],
-  "Connect Id Array": [
-    "0",
-    1,
-    88
-  ],
   "Required": "No",
   "PII": "No",
   "Notes": "Only display if MHGROUP9 = prostate remvoal surgery",
+  "Connect Id Array": [
+    null,
+    1,
+    88
+  ],
   "@context": ""
 }

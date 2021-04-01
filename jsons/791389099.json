@@ -1,5 +1,5 @@
 {
-  "conceptId": "791389099",
+  "conceptId": 791389099,
   "Primary Source": "192505768.json",
   "Secondary Source": "214456996.json",
   "Source Question": "142654897.json",
@@ -7,7 +7,7 @@
   "Variable Label": "News article or press release about Connect",
   "Variable Name": "RcrtES_Aware_v1r0_News",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "104430631.json",
     "353358909.json"

@@ -1,5 +1,5 @@
 {
-  "conceptId": "906417725",
+  "conceptId": 906417725,
   "Primary Source": "237817859.json",
   "Secondary Source": "635994596.json",
   "Source Question": "485747678.json",
@@ -7,7 +7,7 @@
   "Variable Label": "Refusing all future activities",
   "Variable Name": "HdWd_Activepart_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "104430631.json",
     "353358909.json"

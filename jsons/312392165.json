@@ -1,5 +1,5 @@
 {
-  "conceptId": "312392165",
+  "conceptId": 312392165,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "SYPH",
@@ -9,7 +9,7 @@
   "Variable Name": "SrvBOH_SyphilisYear_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SYPH_YEAR",
   "Variable Type": "Year",
-  "Variable Length": "4",
+  "Variable Length": 4,
   "Connect Value": "yyyy",
   "Required": "No",
   "PII": "No",

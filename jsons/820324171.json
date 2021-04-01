@@ -1,5 +1,5 @@
 {
-  "conceptId": "820324171",
+  "conceptId": 820324171,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "When you were about 10 years old, compared to average, would you describe yourself as???",
@@ -17,12 +17,12 @@
     "902131456.json",
     "839266527.json"
   ],
+  "Required": "No",
+  "PII": "No",
   "Connect Id Array": [
-    "0",
+    null,
     1,
     2
   ],
-  "Required": "No",
-  "PII": "No",
   "@context": ""
 }

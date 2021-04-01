@@ -1,12 +1,12 @@
 {
-  "conceptId": "119643471",
+  "conceptId": 119643471,
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Question Text": "Sanford Health Reported Race",
   "Variable Label": "Sanford Health Reported Race",
   "Variable Name": "RcrtSI_SHRace_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Format/Value": [
     "232334767.json",
     "211228524.json",

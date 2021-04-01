@@ -1,12 +1,12 @@
 {
-  "conceptId": "148197146",
+  "conceptId": 148197146,
   "Primary Source": "192505768.json",
   "Secondary Source": "218595434.json",
   "Question Text": "Duplicate type",
   "Variable Label": "Duplicate type",
   "Variable Name": "RcrtV_DuplicateType_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "638335430.json",
     "654558118.json"
@@ -15,6 +15,6 @@
   "PII": "No",
   "Notes": "Sent as part of the verification table from the IHCS.",
   "Dictionary": "Master Data Dictionary",
-  "Date added or modified": "Thu Mar 25 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
+  "Date added or modified": "2021-03-25T04:00:00.000Z",
   "@context": ""
 }

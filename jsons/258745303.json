@@ -1,12 +1,12 @@
 {
-  "conceptId": "258745303",
+  "conceptId": 258745303,
   "Primary Source": "819848608.json",
   "Secondary Source": "948781977.json",
   "Question Text": "Orphan tube- report missing",
   "Variable Label": "Orphan tube- report missing",
   "Variable Name": "BioPack_OMissing_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "104430631.json",
     "353358909.json"

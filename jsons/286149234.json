@@ -1,5 +1,5 @@
 {
-  "conceptId": "286149234",
+  "conceptId": 286149234,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "ALTCONTACT2",
@@ -9,7 +9,7 @@
   "Variable Name": "SrvBOH_AltContCell_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "ALTCONTACT2_MOBILE",
   "Variable Type": "Num",
-  "Variable Length": "10",
+  "Variable Length": 10,
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "Yes",

@@ -1,12 +1,12 @@
 {
-  "conceptId": "821247024",
+  "conceptId": 821247024,
   "Primary Source": "192505768.json",
   "Secondary Source": "218595434.json",
   "Question Text": "Indicator of match verification after creation of user profile - updated by sites",
   "Variable Label": "Verification status",
   "Variable Name": "RcrtV_Verification_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "875007964.json",
     "197316935.json",

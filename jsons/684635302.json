@@ -1,12 +1,12 @@
 {
-  "conceptId": "684635302",
+  "conceptId": 684635302,
   "Primary Source": "819848608.json",
   "Secondary Source": "104913069.json",
   "Question Text": "Baseline Mouthwash Collected",
   "Variable Label": "Placeholder- Baseline Mouthwash Collected",
   "Variable Name": "BioFin_BaseMouthCol_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "104430631.json",
     "353358909.json"

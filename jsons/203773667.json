@@ -1,15 +1,15 @@
 {
-  "conceptId": "203773667",
+  "conceptId": 203773667,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Source Question": "207025341.json",
   "Question Text": "Surgery",
   "Variable Label": "Surgery",
   "Variable Name": "SrvBOH_Surgery1_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "4",
-  "Connect Value for Select all that apply questions": "3",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 4,
+  "Connect Value for Select all that apply questions": 3,
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Connect Value": [
     "104430631.json",
     "353358909.json"

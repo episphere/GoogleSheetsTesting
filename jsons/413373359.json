@@ -1,5 +1,5 @@
 {
-  "conceptId": "413373359",
+  "conceptId": 413373359,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "MOMCANC3A",
@@ -9,7 +9,7 @@
   "Variable Name": "SrvBOH_MomAnalCancYr_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "MOMCANC3A_YEAR",
   "Variable Type": "Year",
-  "Variable Length": "4",
+  "Variable Length": 4,
   "Connect Value": "yyyy",
   "Required": "No",
   "PII": "No",

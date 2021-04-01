@@ -1,5 +1,5 @@
 {
-  "conceptId": "132265702",
+  "conceptId": 132265702,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "THYROID",
@@ -9,7 +9,7 @@
   "Variable Name": "SrvBOH_ThyroidAge_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "THYROID_AGE",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "No",

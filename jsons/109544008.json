@@ -1,5 +1,5 @@
 {
-  "conceptId": "109544008",
+  "conceptId": 109544008,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "How old were you when you first used medication to treat thinning hair or hair loss?",
@@ -7,7 +7,7 @@
   "Variable Name": "SrvBOH_HairMedAgeF_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "HRMED3",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "No",

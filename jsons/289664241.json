@@ -1,5 +1,5 @@
 {
-  "conceptId": "289664241",
+  "conceptId": 289664241,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Do you think of yourself as:",
@@ -7,7 +7,7 @@
   "Variable Name": "SrvBOH_Gender_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "GEN",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Old Quest Value": [
     "1 = Male",
     "2 = Female",
@@ -26,8 +26,10 @@
     "438483626.json",
     "746038746.json"
   ],
+  "Required": "No",
+  "PII": "No",
   "Connect Id Array": [
-    "0",
+    null,
     1,
     2,
     3,
@@ -35,7 +37,5 @@
     55,
     99
   ],
-  "Required": "No",
-  "PII": "No",
   "@context": ""
 }

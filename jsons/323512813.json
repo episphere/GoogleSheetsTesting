@@ -1,5 +1,5 @@
 {
-  "conceptId": "323512813",
+  "conceptId": 323512813,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Over the past three months, have you felt any physical pain on most days?",
@@ -15,11 +15,11 @@
     "104430631.json",
     "353358909.json"
   ],
-  "Connect Id Array": [
-    "0",
-    1
-  ],
   "Required": "No",
   "PII": "No",
+  "Connect Id Array": [
+    null,
+    1
+  ],
   "@context": ""
 }

@@ -1,5 +1,5 @@
 {
-  "conceptId": "209509101",
+  "conceptId": 209509101,
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Source Question": "706283025.json",
@@ -7,7 +7,7 @@
   "Variable Label": "Participation takes too much time, asks for too much",
   "Variable Name": "RcrtSI_OptOut_v1r0_time",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "104430631.json",
     "353358909.json"

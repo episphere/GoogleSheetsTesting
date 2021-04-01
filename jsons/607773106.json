@@ -1,5 +1,5 @@
 {
-  "conceptId": "607773106",
+  "conceptId": 607773106,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Sibling 1- [If SIB4=01] Has a doctor or other health professional ever told [SIBLING INITIALS OR NICKNAME/your sibling] that they have or had any type of cancer? [If SIB4=00, 77, NON-RESPONSE] Did a doctor or other health professional ever tell [sibling initials or nickname/your sibling] that they had any type of cancer?",
@@ -7,7 +7,7 @@
   "Variable Name": "SrvBOH_Sibling1Cancer_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SIBCANC",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Old Quest Value": [
     "1=No",
     "2=Yes",
@@ -18,12 +18,12 @@
     "353358909.json",
     "178420302.json"
   ],
+  "Required": "No",
+  "PII": "No",
   "Connect Id Array": [
-    "0",
+    null,
     1,
     77
   ],
-  "Required": "No",
-  "PII": "No",
   "@context": ""
 }

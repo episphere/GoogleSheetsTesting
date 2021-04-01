@@ -1,5 +1,5 @@
 {
-  "conceptId": "537137982",
+  "conceptId": 537137982,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Sibling 1- How old was [SIBLING INITIALS OR NICKNAME/your sibling] when they died?",
@@ -7,10 +7,10 @@
   "Variable Name": "SrvBOH_Sib1AgeDeath_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SIBDEATH",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Old Quest Value": "99 = Don't know",
   "Connect Value": "178420302.json",
-  "Connect Id Array": "77",
+  "Connect Id Array": 77,
   "Required": "No",
   "PII": "No",
   "@context": ""

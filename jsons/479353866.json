@@ -1,5 +1,5 @@
 {
-  "conceptId": "479353866",
+  "conceptId": 479353866,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Based on the information you provided when you enrolled in this study, you are [Age from Enrollment Questionnaire] years old today. Is that correct?",
@@ -7,7 +7,7 @@
   "Variable Name": "SrvBOH_AgeCon_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "AGECOR",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Old Quest Value": [
     "1=No",
     "2=Yes"
@@ -16,11 +16,11 @@
     "104430631.json",
     "353358909.json"
   ],
-  "Connect Id Array": [
-    "0",
-    1
-  ],
   "Required": "Yes",
   "PII": "No",
+  "Connect Id Array": [
+    null,
+    1
+  ],
   "@context": ""
 }

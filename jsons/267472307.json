@@ -1,5 +1,5 @@
 {
-  "conceptId": "267472307",
+  "conceptId": 267472307,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "RACEETH8",
@@ -7,10 +7,10 @@
   "Question Text": "Italian",
   "Variable Label": "Italian",
   "Variable Name": "SrvBOH_Italian_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "7",
-  "Connect Value for Select all that apply questions": "6",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 7,
+  "Connect Value for Select all that apply questions": 6,
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Connect Value": [
     "104430631.json",
     "353358909.json"

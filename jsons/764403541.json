@@ -1,12 +1,12 @@
 {
-  "conceptId": "764403541",
+  "conceptId": 764403541,
   "Primary Source": "237817859.json",
   "Secondary Source": "635994596.json",
   "Question Text": "Source of Deceased Report",
   "Variable Label": "Source of Deceased Report",
   "Variable Name": "HdWd_SourceofReport_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "817514412.json",
     "597175457.json",
@@ -18,6 +18,6 @@
   "PII": "No",
   "Notes": "ISO to be converted to SAS format",
   "Dictionary": "Master Data Dictionary",
-  "Date added or modified": "Wed Mar 24 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
+  "Date added or modified": "2021-03-24T04:00:00.000Z",
   "@context": ""
 }

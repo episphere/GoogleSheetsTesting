@@ -1,5 +1,5 @@
 {
-  "conceptId": "936904328",
+  "conceptId": 936904328,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Variable Label": "Carry weight",
@@ -16,12 +16,12 @@
     "506790433.json",
     "601057066.json"
   ],
+  "Required": "No",
+  "PII": "No",
   "Connect Id Array": [
-    "0",
+    null,
     1,
     2
   ],
-  "Required": "No",
-  "PII": "No",
   "@context": ""
 }

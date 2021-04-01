@@ -1,12 +1,12 @@
 {
-  "conceptId": "158291096",
+  "conceptId": 158291096,
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Question Text": "Pre-consent Opt-out",
   "Variable Label": "Pre-consent Opt-out",
   "Variable Name": "RcrtSI_OptOut_v1r0",
   "Variable Type": "Num",
-  "Variable Length": "1",
+  "Variable Length": 1,
   "Format/Value": [
     "104430631.json",
     "353358909.json"

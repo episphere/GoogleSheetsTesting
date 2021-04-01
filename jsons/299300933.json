@@ -1,5 +1,5 @@
 {
-  "conceptId": "299300933",
+  "conceptId": 299300933,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Child 1- How old is [CHILD INITIALS OR NICKNAME/your CHILD] today?",
@@ -7,7 +7,7 @@
   "Variable Name": "SrvBOH_Child1Age_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CHILDAGE_AGE",
   "Variable Type": "Num",
-  "Variable Length": "2",
+  "Variable Length": 2,
   "Old Quest Value": "N/A",
   "Connect Value": "N/A",
   "Required": "No",

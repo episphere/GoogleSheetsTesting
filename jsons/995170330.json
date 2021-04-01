@@ -1,5 +1,5 @@
 {
-  "conceptId": "995170330",
+  "conceptId": 995170330,
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "KIDNEY",
@@ -9,7 +9,7 @@
   "Variable Name": "SrvBOH_KSYear_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "KIDNEY_YEAR",
   "Variable Type": "Year",
-  "Variable Length": "5",
+  "Variable Length": 5,
   "Connect Value": "yyyy",
   "Required": "No",
   "PII": "No",
