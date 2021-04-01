@@ -10,6 +10,7 @@
   "Variable Type": "Num",
   "Variable Length": 2,
   "Connect Value": "746038746.json",
+  "Connect Id Array": 99,
   "Required": "No",
   "PII": "Yes",
   "@context": ""

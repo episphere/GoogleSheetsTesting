@@ -14,6 +14,10 @@
     "104430631.json",
     "353358909.json"
   ],
+  "Connect Id Array": [
+    0,
+    1
+  ],
   "Required": "No",
   "PII": "No",
   "Notes": "Only display if flag for percent weight change 18-25 = yes",

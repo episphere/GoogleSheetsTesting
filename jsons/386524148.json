@@ -15,6 +15,10 @@
     "104430631.json",
     "353358909.json"
   ],
+  "Connect Id Array": [
+    0,
+    1
+  ],
   "Required": "No",
   "PII": "No",
   "Notes": "[DISPLAY ONLY IF SEX = (02) OR (SEX= (03) AND SEX2 = (07))]",
