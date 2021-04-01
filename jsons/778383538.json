@@ -1,5 +1,5 @@
 {
-  "conceptId": 778383538,
+  "conceptId": "778383538",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Source Question": "140418030.json",
@@ -7,7 +7,7 @@
   "Variable Label": "WEIGHTHIS percent difference between 35 years old and 45 years old",
   "Variable Name": "SrvBOH_WtPercent3545_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 3,
+  "Variable Length": "3",
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "No",

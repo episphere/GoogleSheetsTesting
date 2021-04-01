@@ -1,5 +1,5 @@
 {
-  "conceptId": 704544306,
+  "conceptId": "704544306",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "MHGROUP3",
@@ -7,10 +7,10 @@
   "Question Text": "Barrett's Esophagus",
   "Variable Label": "Barrett's Esophagus",
   "Variable Name": "SrvBOH_Barretts_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 2,
-  "Connect Value for Select all that apply questions": 1,
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "2",
+  "Connect Value for Select all that apply questions": "1",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Connect Value": [
     "104430631.json",
     "353358909.json"

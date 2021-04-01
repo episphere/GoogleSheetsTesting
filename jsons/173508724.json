@@ -1,5 +1,5 @@
 {
-  "conceptId": 173508724,
+  "conceptId": "173508724",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Source Question": "641651634.json",
@@ -8,7 +8,7 @@
   "Variable Name": "SrvBOH_PplHouse_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "PPLHOUSE",
   "Variable Type": "Num",
-  "Variable Length": 2,
+  "Variable Length": "2",
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "Yes",

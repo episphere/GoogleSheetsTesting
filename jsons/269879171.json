@@ -1,12 +1,12 @@
 {
-  "conceptId": 269879171,
+  "conceptId": "269879171",
   "Primary Source": "332961895.json",
   "Secondary Source": "581036703.json",
   "Question Text": "Disposition codes for participation status",
   "Variable Label": "Participation status",
   "Variable Name": "SMMet_PartStatus_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "208325815.json",
     "622008261.json",
@@ -25,6 +25,6 @@
     "HdWd_Destroydata_v1r0 = 1"
   ],
   "Dictionary": "Master Data Dictionary",
-  "Date added or modified": "2021-03-25T04:00:00.000Z",
+  "Date added or modified": "Thu Mar 25 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
   "@context": ""
 }

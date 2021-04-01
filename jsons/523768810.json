@@ -1,12 +1,12 @@
 {
-  "conceptId": 523768810,
+  "conceptId": "523768810",
   "Primary Source": "237817859.json",
   "Secondary Source": "861315814.json",
   "Question Text": "I am worried about receiving results from the study",
   "Variable Label": "Worried about receiving results from the study",
   "Variable Name": "HdRef_WorriedResults_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "104430631.json",
     "353358909.json"
@@ -14,6 +14,6 @@
   "Required": "Yes",
   "PII": "No",
   "Dictionary": "Master Data Dictionary",
-  "Date added or modified": "2021-03-24T04:00:00.000Z",
+  "Date added or modified": "Wed Mar 24 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
   "@context": ""
 }

@@ -1,12 +1,12 @@
 {
-  "conceptId": 477091792,
+  "conceptId": "477091792",
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Question Text": "IHCS Membership Status",
   "Variable Label": "IHCS Membership Status",
   "Variable Name": "RcrtSI_MemberStat_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "939572698.json",
     "512786135.json",

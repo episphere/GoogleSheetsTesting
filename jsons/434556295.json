@@ -1,5 +1,5 @@
 {
-  "conceptId": 434556295,
+  "conceptId": "434556295",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "BLDTRANS4",
@@ -9,7 +9,7 @@
   "Variable Name": "SrvBOH_LBloodTransAge_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "BLDTRANS4_AGE",
   "Variable Type": "Num",
-  "Variable Length": 2,
+  "Variable Length": "2",
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "No",

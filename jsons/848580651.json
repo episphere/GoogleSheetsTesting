@@ -1,5 +1,5 @@
 {
-  "conceptId": 848580651,
+  "conceptId": "848580651",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Are you shorter now than when you were in your 20s and 30s?",
@@ -17,12 +17,12 @@
     "589959753.json",
     "623310018.json"
   ],
-  "Required": "No",
-  "PII": "No",
   "Connect Id Array": [
-    null,
+    "0",
     1,
     2
   ],
+  "Required": "No",
+  "PII": "No",
   "@context": ""
 }

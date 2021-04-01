@@ -1,5 +1,5 @@
 {
-  "conceptId": 407167089,
+  "conceptId": "407167089",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Source Question": "912857732.json",
@@ -8,7 +8,7 @@
   "Variable Name": "SrvBOH_Weight45_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "WEIGHTHIS4",
   "Variable Type": "Num",
-  "Variable Length": 3,
+  "Variable Length": "3",
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "No",

@@ -1,5 +1,5 @@
 {
-  "conceptId": 950040334,
+  "conceptId": "950040334",
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Source Question": "706283025.json",
@@ -7,7 +7,7 @@
   "Variable Label": "Reason not given",
   "Variable Name": "RcrtSI_OptOut_v1r0_none",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "104430631.json",
     "353358909.json"

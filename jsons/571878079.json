@@ -1,5 +1,5 @@
 {
-  "conceptId": 571878079,
+  "conceptId": "571878079",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "CHILDCANC3E",
@@ -9,7 +9,7 @@
   "Variable Name": "SrvBOH_C1CervCancAge_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CHILDCANC3E_AGE",
   "Variable Type": "Num",
-  "Variable Length": 2,
+  "Variable Length": "2",
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "No",

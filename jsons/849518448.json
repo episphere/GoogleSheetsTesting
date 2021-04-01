@@ -1,12 +1,12 @@
 {
-  "conceptId": 849518448,
+  "conceptId": "849518448",
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Question Text": "Site reported race/ethnicity",
   "Variable Label": "Site reported race/ethnicity",
   "Variable Name": "RcrtSI_Race_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "768826601.json",
     "438483626.json",
@@ -15,6 +15,6 @@
   "Required": "Yes",
   "PII": "No",
   "Dictionary": "Recruitment Data Dictionary",
-  "Date added or modified": "2021-03-25T04:00:00.000Z",
+  "Date added or modified": "Thu Mar 25 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
   "@context": ""
 }

@@ -1,5 +1,5 @@
 {
-  "conceptId": 757246707,
+  "conceptId": "757246707",
   "Primary Source": "819848608.json",
   "Secondary Source": "360770860.json",
   "Source Question": "248868659.json",
@@ -7,7 +7,7 @@
   "Variable Label": "Deviation- Leaked/spilled",
   "Variable Name": "BioCol_Dev_v1r0_Leak",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "104430631.json",
     "353358909.json"

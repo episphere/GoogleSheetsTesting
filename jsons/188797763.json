@@ -1,12 +1,12 @@
 {
-  "conceptId": 188797763,
+  "conceptId": "188797763",
   "Primary Source": "192505768.json",
   "Secondary Source": "218595434.json",
   "Question Text": "Outreach required for manual verification",
   "Variable Label": "Outreach required for Verification",
   "Variable Name": "RcrtV_Outreach_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "104430631.json",
     "353358909.json"
@@ -15,6 +15,6 @@
   "PII": "No",
   "Notes": "Sent as part of the verification table from IHCS. Should not = Yes when only Automated verification is used",
   "Dictionary": "Master Data Dictionary",
-  "Date added or modified": "2021-03-25T04:00:00.000Z",
+  "Date added or modified": "Thu Mar 25 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
   "@context": ""
 }

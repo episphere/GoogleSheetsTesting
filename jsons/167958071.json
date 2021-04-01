@@ -1,12 +1,12 @@
 {
-  "conceptId": 167958071,
+  "conceptId": "167958071",
   "Primary Source": "819848608.json",
   "Secondary Source": "104913069.json",
   "Question Text": "Baseline Urine Collected",
   "Variable Label": "Placeholder- Baseline Urine Collected",
   "Variable Name": "BioFin_BaseUrineCol_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "104430631.json",
     "353358909.json"

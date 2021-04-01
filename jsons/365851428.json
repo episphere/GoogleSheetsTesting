@@ -1,5 +1,5 @@
 {
-  "conceptId": 365851428,
+  "conceptId": "365851428",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "Which one of these figures most closely resembles your hair pattern at age 40?",
@@ -7,7 +7,7 @@
   "Variable Name": "SrvBOH_HairFemale_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "HAIRFEM",
   "Variable Type": "Num",
-  "Variable Length": 2,
+  "Variable Length": "2",
   "Old Quest Value": [
     "1 = Full head of hair with no hair loss.",
     "2 = Very mild hair loss or thinning of hair on the top of the head along the middle of the head",
@@ -30,11 +30,8 @@
     "746328729.json",
     "452963767.json"
   ],
-  "Required": "No",
-  "PII": "No",
-  "Notes": "[DISPLAY HAIRFEM IF SEX= 02 and GEN= 02]",
   "Connect Id Array": [
-    null,
+    "0",
     1,
     2,
     3,
@@ -44,5 +41,8 @@
     7,
     8
   ],
+  "Required": "No",
+  "PII": "No",
+  "Notes": "[DISPLAY HAIRFEM IF SEX= 02 and GEN= 02]",
   "@context": ""
 }

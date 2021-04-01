@@ -1,12 +1,12 @@
 {
-  "conceptId": 651014336,
+  "conceptId": "651014336",
   "Primary Source": "129084651.json",
   "Secondary Source": "829441834.json",
   "Question Text": "Any baseline survey modules not yet submitted",
   "Variable Label": "Baseline survey not complete",
   "Variable Name": "SrvMsg_AnyLeft_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "104430631.json",
     "353358909.json"
@@ -16,6 +16,6 @@
   "Notes": "Use for Survey reminder messaging",
   "Derivation Notes": "If SrvMRE_BaseStatus_v1r0 ne 2 or SrvSAS_BaseStatus_v1r0 ne 2 or SrvLAW_BaseStatus_v1r0 ne 2 then SrvMsg_AnyLeft_v1r0 = 1 else SrvMsg_AnyLeft_v1r0 = 0",
   "Dictionary": "Master Data Dictionary",
-  "Date added or modified": "2021-03-25T04:00:00.000Z",
+  "Date added or modified": "Thu Mar 25 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
   "@context": ""
 }

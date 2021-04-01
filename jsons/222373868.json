@@ -1,12 +1,12 @@
 {
-  "conceptId": 222373868,
+  "conceptId": "222373868",
   "Primary Source": "332961895.json",
   "Secondary Source": "117044491.json",
   "Question Text": "NORC Payment Eligibility",
   "Variable Label": "NORC Payment Eligibility",
   "Variable Name": "SMPaym_NORCPaymElig_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "104430631.json",
     "353358909.json"

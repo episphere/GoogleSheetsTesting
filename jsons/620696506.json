@@ -1,12 +1,12 @@
 {
-  "conceptId": 620696506,
+  "conceptId": "620696506",
   "Primary Source": "237817859.json",
   "Secondary Source": "861315814.json",
   "Question Text": "I am unable to complete the study activities online",
   "Variable Label": "Unable to complete study activities online",
   "Variable Name": "HdRef_Online_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "104430631.json",
     "353358909.json"

@@ -1,5 +1,5 @@
 {
-  "conceptId": 573112450,
+  "conceptId": "573112450",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "QuestID - radio button or multi-answer format questions questions.": "CHILDCANC2",
@@ -7,10 +7,10 @@
   "Question Text": "Ovarian",
   "Variable Label": "Ovarian",
   "Variable Name": "SrvBOH_C1OvarianCanc_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 17,
-  "Connect Value for Select all that apply questions": 16,
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "17",
+  "Connect Value for Select all that apply questions": "16",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Connect Value": [
     "104430631.json",
     "353358909.json"

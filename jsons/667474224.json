@@ -1,12 +1,12 @@
 {
-  "conceptId": 667474224,
+  "conceptId": "667474224",
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Question Text": "Campaign Type",
   "Variable Label": "Campaign Type",
   "Variable Name": "RcrtSI_CampaignType_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "926338735.json",
     "348281054.json",
@@ -23,6 +23,6 @@
   "PII": "No",
   "Notes": "Sent with de-identified individual demographic variables when participants moved from Eligibility pool to active recruits with submitParticipantsData API call.",
   "Dictionary": "Recruitment Data Dictionary",
-  "Date added or modified": "2021-03-25T04:00:00.000Z",
+  "Date added or modified": "Thu Mar 25 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
   "@context": ""
 }

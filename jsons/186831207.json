@@ -1,5 +1,5 @@
 {
-  "conceptId": 186831207,
+  "conceptId": "186831207",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "How old were you when you last used medication to treat thinning hair or hair loss? If you are currently using medication to treat thinning hair or hair loss, enter your current age.",
@@ -7,7 +7,7 @@
   "Variable Name": "SrvBOH_HairMedAgeL_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "HRMED4",
   "Variable Type": "Num",
-  "Variable Length": 2,
+  "Variable Length": "2",
   "Connect Value": "N/A",
   "Required": "No",
   "PII": "No",

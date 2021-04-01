@@ -1,12 +1,12 @@
 {
-  "conceptId": 990579614,
+  "conceptId": "990579614",
   "Primary Source": "237817859.json",
   "Secondary Source": "861315814.json",
   "Question Text": "Privacy: Worried about data being given to employer/potential employer",
   "Variable Label": "Privacy: Worried about data being given to employer/potential employer",
   "Variable Name": "HdRef_PrivacyG_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Length": "1",
   "Format/Value": [
     "104430631.json",
     "353358909.json"

@@ -1,12 +1,12 @@
 {
-  "conceptId": 684926335,
+  "conceptId": "684926335",
   "Primary Source": "192505768.json",
   "Secondary Source": "883203566.json",
   "Question Text": "Henry Ford Health System Reported Race",
   "Variable Label": "Henry Ford Health System Reported Race",
   "Variable Name": "RcrtSI_HFHSRace_v1r0",
   "Variable Type": "Num",
-  "Variable Length": 2,
+  "Variable Length": "2",
   "Format/Value": [
     "232334767.json",
     "635279662.json",

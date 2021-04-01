@@ -1,5 +1,5 @@
 {
-  "conceptId": 628078826,
+  "conceptId": "628078826",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
   "Question Text": "How old is your father today?",
@@ -7,10 +7,10 @@
   "Variable Name": "SrvBOH_DadAge_v1r0",
   "QuestID for check box or single answer questions. Also includes codes for radio button questions": "DADDEATH",
   "Variable Type": "Num",
-  "Variable Length": 2,
+  "Variable Length": "2",
   "Old Quest Value": "99= Don't know",
   "Connect Value": "178420302.json",
-  "Connect Id Array": 77,
+  "Connect Id Array": "77",
   "Required": "No",
   "PII": "No",
   "@context": ""
