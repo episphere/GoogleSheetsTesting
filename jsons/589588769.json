@@ -1,29 +1,29 @@
 {
-  "conceptId": 589588769,
-  "Primary Source": "129084651.json",
-  "Secondary Source": "898006288.json",
-  "Question Text": "Sibling 1- Is [SIBLING INITIALS OR NICKNAME/your sibling] a???",
-  "Variable Label": "Sibling 1 full/half",
-  "Variable Name": "SrvBOH_Sib1FullHalf_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SIB3",
-  "Variable Type": "Num",
-  "Variable Length": 2,
+  "234119": "129084651.json",
+  "conceptId": "589588769",
+  "Primary Source": "898006288.json",
+  "Source Question": "Sibling 1- Is [SIBLING INITIALS OR NICKNAME/your sibling] a???",
+  "Question Text": "Sibling 1 full/half",
+  "Variable Label": "SrvBOH_Sib1FullHalf_v1r0",
+  "Variable Name": "SIB3",
+  "Connect Value for Select all that apply questions": "Num",
+  "Variable Type": "2",
+  "Format/Value": [
+    "Full sibling",
+    "Half sibling, same mother",
+    "Half sibling, same father"
+  ],
   "Old Quest Value": [
-    "1 = Full sibling",
-    "2 = Half sibling, same mother",
-    "3 = Half sibling, same father"
+    "429787999.json",
+    "618412425.json",
+    "695624757.json"
   ],
   "Connect Value": [
-    "555374628.json",
-    "871673221.json",
-    "198654048.json"
+    "0",
+    "1",
+    "2"
   ],
-  "Connect Id Array": [
-    0,
-    1,
-    2
-  ],
+  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "No",
   "@context": ""
 }

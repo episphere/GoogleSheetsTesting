@@ -1,32 +1,32 @@
 {
-  "conceptId": 887697329,
-  "Primary Source": "129084651.json",
-  "Secondary Source": "898006288.json",
-  "Question Text": "Child 1-Thinking of [child initials or nickname/your [oldest/next oldest]child], what biological sex was this child assigned at birth?",
-  "Variable Label": "Child 1 sex at birth",
-  "Variable Name": "SrvBOH_Child1Sex_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CHILD2",
-  "Variable Type": "Num",
-  "Variable Length": 2,
+  "234119": "129084651.json",
+  "conceptId": "887697329",
+  "Primary Source": "898006288.json",
+  "Source Question": "Child 1-Thinking of [child initials or nickname/your [oldest/next oldest]child], what biological sex was this child assigned at birth?",
+  "Question Text": "Child 1 sex at birth",
+  "Variable Label": "SrvBOH_Child1Sex_v1r0",
+  "Variable Name": "CHILD2",
+  "Connect Value for Select all that apply questions": "Num",
+  "Variable Type": "2",
+  "Format/Value": [
+    "Male",
+    "Female",
+    "Intersex or other",
+    "Don't know"
+  ],
   "Old Quest Value": [
-    "1 = Male",
-    "2 = Female",
-    "3 = Intersex or other",
-    "77 = Don't know"
+    "539509951.json",
+    "766216096.json",
+    "396211950.json",
+    "577516561.json"
   ],
   "Connect Value": [
-    "536341288.json",
-    "654207589.json",
-    "576796184.json",
-    "178420302.json"
+    "0",
+    "1",
+    "2",
+    "77"
   ],
-  "Connect Id Array": [
-    0,
-    1,
-    2,
-    77
-  ],
+  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "No",
   "@context": ""
 }

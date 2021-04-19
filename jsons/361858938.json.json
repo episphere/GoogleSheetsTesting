@@ -1,0 +1,27 @@
+{
+  "234119": "400031083.json",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "Background and Overall Health",
+  "QuestID - radio button or multi-answer format questions questions.": "839464519.json",
+  "Source Question": "Native Hawaiian or other Pacific Islander - Which categories describe you? Select all that apply. Note, you may select more than one group.",
+  "Question Text": "Tongan",
+  "Variable Label": "Tongan",
+  "Variable Name": "SrvBOH_Tongan_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "9",
+  "Connect Value for Select all that apply questions": "8",
+  "Variable Type": "Num",
+  "Variable Length": "1",
+  "Connect Value": [
+    "No",
+    "Yes"
+  ],
+  "Connect Id Array": [
+    "0",
+    "1"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only display if RACEETH = Native Hawaiian or other Pacific Islander",
+  "conceptId": "361858938.json",
+  "@context": ""
+}

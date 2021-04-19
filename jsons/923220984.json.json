@@ -1,0 +1,30 @@
+{
+  "234119": "377657606.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Sign in",
+  "Question Text": "Sanford Health Reported Race",
+  "Variable Label": "Sanford Health Reported Race",
+  "Variable Name": "RcrtSI_SHRace_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "156095877.json",
+  "Format/Value": [
+    "African American/Black",
+    "American Indian or Alaskan Native",
+    "Asian",
+    "Caucasian/White",
+    "Hispanic/Latino/Black",
+    "Hispanic/Latino/Declined",
+    "Hispanic/Latino/White",
+    "Native Hawaiian",
+    "Native Hawaiian/Pacific Islander",
+    "Pacific Islander",
+    "Blank",
+    "Declined",
+    "Unavailable/Unknown"
+  ],
+  "Required": "For Sanford Health",
+  "PII": "No",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "923220984.json",
+  "@context": ""
+}

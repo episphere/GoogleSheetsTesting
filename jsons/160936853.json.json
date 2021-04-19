@@ -1,0 +1,23 @@
+{
+  "234119": "610193444.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Verification",
+  "Question Text": "Indicator of match verification after creation of user profile - updated by sites",
+  "Variable Label": "Verification status",
+  "Variable Name": "RcrtV_Verification_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "Not yet verified",
+    "Verified",
+    "Cannot be verified",
+    "Duplicate",
+    "Outreach timed out"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Notes": "Default, Not yet verified - 0, assigned at submission of  StudyIDs from sites for active recruits and when token is assigned from passive recruits.  Updates will be received from the sites as part of the verification table.",
+  "Dictionary": "Recruitment Data Dictionary, Biospecimen Research",
+  "conceptId": "160936853.json",
+  "@context": ""
+}

@@ -1,0 +1,16 @@
+{
+  "234119": "284788121.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Post-consent",
+  "Question Text": "Firebase authentication userid",
+  "Variable Label": "Account UserID",
+  "Variable Name": "uid",
+  "Variable Type": "Char",
+  "Variable Length": "240",
+  "Format/Value": "N/A",
+  "Required": "Yes",
+  "PII": "Yes",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "520698045.json",
+  "@context": ""
+}

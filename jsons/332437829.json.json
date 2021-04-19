@@ -1,0 +1,17 @@
+{
+  "234119": "169923699.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "User Profile",
+  "Question Text": "What type of cancer?",
+  "Variable Label": "Cancer Type",
+  "Variable Name": "RcrtUP_CancerType_v1r0",
+  "Variable Type": "Char",
+  "Variable Length": "800",
+  "Format/Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Only shown if answer to RcrtUP_Cancer_v1r0 equals 1.",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "332437829.json",
+  "@context": ""
+}

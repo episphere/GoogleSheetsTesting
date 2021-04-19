@@ -1,26 +1,26 @@
 {
-  "conceptId": 691423127,
-  "Primary Source": "129084651.json",
-  "Secondary Source": "898006288.json",
-  "QuestID - radio button or multi-answer format questions questions.": "WTLOSS2_1825",
-  "Source Question": "207025341.json",
+  "234119": "129084651.json",
+  "conceptId": "691423127",
+  "Primary Source": "898006288.json",
+  "Secondary Source": "WTLOSS2_1825",
+  "QuestID - radio button or multi-answer format questions questions.": "207025341.json",
+  "Source Question": "Skipped meals",
   "Question Text": "Skipped meals",
-  "Variable Label": "Skipped meals",
-  "Variable Name": "SrvBOH_SkipMeal1_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 3,
-  "Connect Value for Select all that apply questions": 2,
-  "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Label": "SrvBOH_SkipMeal1_v1r0",
+  "Variable Name": "3",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "2",
+  "Connect Value for Select all that apply questions": "Num",
+  "Variable Type": "1",
+  "Old Quest Value": [
+    "794342870.json",
+    "217433442.json"
+  ],
   "Connect Value": [
-    "104430631.json",
-    "353358909.json"
+    "0",
+    "1"
   ],
-  "Connect Id Array": [
-    0,
-    1
-  ],
+  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "No",
-  "Notes": "Only display if flag for percent weight change 18-25 = yes",
+  "PII": "Only display if flag for percent weight change 18-25 = yes",
   "@context": ""
 }

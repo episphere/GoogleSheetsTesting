@@ -1,0 +1,21 @@
+{
+  "234119": "791026399.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Sign in",
+  "Source Question": "Reasons for opt-out request. (Select all that apply)",
+  "Question Text": "Privacy: I do not want to provide access to medical history information or diagnoses",
+  "Variable Label": "Privacy: Does not want to provide access to EMR/medical history information or diagnoses",
+  "Variable Name": "RcrtSI_OptOut_v1r0_PrivacyC",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Notes": "For use by those recording opt-out requests via phone (e.g. NORC helpdesk).  If a form option is ever created for participants to fill out the list will be reduced.",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "403323516.json",
+  "@context": ""
+}

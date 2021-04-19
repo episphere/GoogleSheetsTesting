@@ -1,25 +1,25 @@
 {
-  "conceptId": 427219143,
-  "Primary Source": "129084651.json",
-  "Secondary Source": "898006288.json",
-  "QuestID - radio button or multi-answer format questions questions.": "MHGROUP2",
-  "Source Question": "894259747.json",
+  "234119": "129084651.json",
+  "conceptId": "427219143",
+  "Primary Source": "898006288.json",
+  "Secondary Source": "MHGROUP2",
+  "QuestID - radio button or multi-answer format questions questions.": "894259747.json",
+  "Source Question": "Hay Fever (Allergic to pollen or Allergic Rhinitis)",
   "Question Text": "Hay Fever (Allergic to pollen or Allergic Rhinitis)",
-  "Variable Label": "Hay Fever (Allergic to pollen or Allergic Rhinitis)",
-  "Variable Name": "SrvBOH_HayFever_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 3,
-  "Connect Value for Select all that apply questions": 2,
-  "Variable Type": "Num",
-  "Variable Length": 1,
+  "Variable Label": "SrvBOH_HayFever_v1r0",
+  "Variable Name": "3",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "2",
+  "Connect Value for Select all that apply questions": "Num",
+  "Variable Type": "1",
+  "Old Quest Value": [
+    "794342870.json",
+    "217433442.json"
+  ],
   "Connect Value": [
-    "104430631.json",
-    "353358909.json"
+    "0",
+    "1"
   ],
-  "Connect Id Array": [
-    0,
-    1
-  ],
+  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "No",
   "@context": ""
 }

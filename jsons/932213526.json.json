@@ -1,0 +1,16 @@
+{
+  "234119": "459095414.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Post-consent",
+  "Question Text": "Firebase authentication phone",
+  "Variable Label": "Account phone",
+  "Variable Name": "phoneNumber",
+  "Variable Type": "Num",
+  "Variable Length": "10",
+  "Format/Value": "N/A",
+  "Required": "Yes if no email",
+  "PII": "Yes",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "932213526.json",
+  "@context": ""
+}

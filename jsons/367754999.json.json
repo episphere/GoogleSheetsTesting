@@ -1,0 +1,21 @@
+{
+  "234119": "338215898.json",
+  "Primary Source": "332961895.json",
+  "Secondary Source": "Payment",
+  "Question Text": "Payment Round",
+  "Variable Label": "Payment Round",
+  "Variable Name": "SMPaym_Round_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "Baseline",
+    "Follow-up 1",
+    "Follow-up 2",
+    "Follow-up 3"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Dictionary": "Study Manager Data Dictionary",
+  "conceptId": "367754999.json",
+  "@context": ""
+}

@@ -1,0 +1,21 @@
+{
+  "234119": "310147469.json",
+  "Primary Source": "819848608.json",
+  "Secondary Source": "Collection",
+  "Source Question": "Deviation? (Select all that apply)",
+  "Question Text": "Deviation- Failed/broken gel layer",
+  "Variable Label": "Deviation- Failed/broken gel layer",
+  "Variable Name": "BioCol_Dev_v1r0_Gel",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "Yes if yes to deviation for a specimen and no other deviation selected",
+  "PII": "No",
+  "Notes": "Default no",
+  "Dictionary": "Biospecimen Clinical, Biospecimen Research",
+  "conceptId": "693844655.json",
+  "@context": ""
+}

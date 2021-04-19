@@ -1,0 +1,20 @@
+{
+  "234119": "748595585.json",
+  "Primary Source": "332961895.json",
+  "Secondary Source": "Metrics",
+  "Question Text": "Participant is fully enrolled",
+  "Variable Label": "Participant is fully enrolled",
+  "Variable Name": "SMMet_FullyEnrolled_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Derivation Notes": "SMMet_FullyEnrolled_v1r0 = 1 if RcrtV_Verification_v1r0 = 1 AND SMMet_BaseSrvCompl_v1r0 = 1 AND  SMMet_BLSamplesColl_v1r0 = 1 AND EMRBl_Push_v1r0 = 1",
+  "Dictionary": "Master Data Dictionary",
+  "conceptId": "721564521.json",
+  "@context": ""
+}

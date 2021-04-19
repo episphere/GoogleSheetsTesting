@@ -1,0 +1,20 @@
+{
+  "234119": "401023653.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Sign in",
+  "Question Text": "Sanford and Henry Ford reported sex",
+  "Variable Label": "Sanford and Henry Ford reported sex",
+  "Variable Name": "RcrtSI_SH_HFHS_Sex_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "Female",
+    "Male",
+    "Unavailable/Unknown"
+  ],
+  "Required": "For SH and HFHS",
+  "PII": "No",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "271908025.json",
+  "@context": ""
+}

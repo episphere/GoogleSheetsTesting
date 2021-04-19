@@ -1,0 +1,20 @@
+{
+  "234119": "394757291.json",
+  "Primary Source": "237817859.json",
+  "Secondary Source": "Refusal",
+  "Question Text": "Participant is incarcerated",
+  "Variable Label": "Participant is incarcerated",
+  "Variable Name": "HdRef_Incarcerated_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Dictionary": "Master Data Dictionary",
+  "Date added or modified": "Wed Mar 24 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
+  "conceptId": "660486092.json",
+  "@context": ""
+}

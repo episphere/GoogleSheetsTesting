@@ -1,0 +1,20 @@
+{
+  "234119": "501163409.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Eligibility Screener",
+  "Source Question": "How did you hear about this study? (Select all that apply)",
+  "Question Text": "Video",
+  "Variable Label": "Video",
+  "Variable Name": "RcrtES_Aware_v1r0_Video",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "744312240.json",
+  "@context": ""
+}

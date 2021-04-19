@@ -1,0 +1,20 @@
+{
+  "234119": "203801986.json",
+  "Primary Source": "819848608.json",
+  "Secondary Source": "Research- Finalization and shipping",
+  "Question Text": "Baseline Mouthwash Collected",
+  "Variable Label": "Placeholder- Baseline Mouthwash Collected",
+  "Variable Name": "BioFin_BaseMouthCol_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "Yes",
+  "Notes": "For display at check-in and check out.  Currently, place holders, but will maintain the Concept IDs when variables are created. These will be derived from other variables in the biospecimen dictionary",
+  "Derivation Notes": "BioCol_TubeCollected_v1r0 = 1 for tube BioCol_0007v1r0 and BioSpm_Visit_v1r0 = 0 then BioFin_BaseMouthCol_v1r0 = 1.",
+  "Dictionary": "Biospecimen Research",
+  "conceptId": "679708793.json",
+  "@context": ""
+}

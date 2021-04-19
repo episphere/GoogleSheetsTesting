@@ -1,0 +1,19 @@
+{
+  "234119": "553449165.json",
+  "Primary Source": "237817859.json",
+  "Secondary Source": "Refusal",
+  "Question Text": "Privacy: Does not trust the government",
+  "Variable Label": "Privacy: Does not trust the government",
+  "Variable Name": "HdRef_PrivacyB_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Dictionary": "Master Data Dictionary",
+  "conceptId": "430160536.json",
+  "@context": ""
+}

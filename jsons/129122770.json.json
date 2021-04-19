@@ -1,0 +1,20 @@
+{
+  "234119": "239694700.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Verification",
+  "Question Text": "Verification Variable - PIN",
+  "Variable Label": "PIN Match",
+  "Variable Name": "RcrtV_PINMatch_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "Not matched",
+    "Matched"
+  ],
+  "Required": "Yes for some sites",
+  "PII": "No",
+  "Notes": "Sent as part of the verification table for HFHS , KP and Sanford.",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "129122770.json",
+  "@context": ""
+}

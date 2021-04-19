@@ -1,0 +1,19 @@
+{
+  "234119": "941016597.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "User Profile",
+  "Question Text": "Can we leave voicemail at this number?",
+  "Variable Label": "Mobile voicemail",
+  "Variable Name": "RcrtUP_MobileVM_V1R0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Dictionary": "Recruitment Data Dictionary, Biospecimen Research",
+  "conceptId": "285658367.json",
+  "@context": ""
+}

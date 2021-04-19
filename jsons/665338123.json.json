@@ -1,0 +1,19 @@
+{
+  "234119": "744204984.json",
+  "Primary Source": "237817859.json",
+  "Secondary Source": "Refusal",
+  "Question Text": "Too sick/poor health to participate",
+  "Variable Label": "Too sick/poor health to participate",
+  "Variable Name": "HdRef_Sick_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Dictionary": "Master Data Dictionary",
+  "conceptId": "665338123.json",
+  "@context": ""
+}

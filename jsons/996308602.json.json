@@ -1,0 +1,16 @@
+{
+  "234119": "762039541.json",
+  "Primary Source": "819848608.json",
+  "Secondary Source": "Login",
+  "Question Text": "Login Last name",
+  "Variable Label": "Login last name",
+  "Variable Name": "BioShip_LogLname_v1r0",
+  "Variable Type": "Char",
+  "Variable Length": "50",
+  "Format/Value": "N/A",
+  "Required": "Yes",
+  "PII": "No",
+  "Dictionary": "Biospecimen Shipping",
+  "conceptId": "996308602.json",
+  "@context": ""
+}

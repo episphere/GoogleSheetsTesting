@@ -1,26 +1,26 @@
 {
-  "conceptId": 535621923,
-  "Primary Source": "129084651.json",
-  "Secondary Source": "898006288.json",
-  "Question Text": "Were you adopted or a foster child?",
-  "Variable Label": "Adopted, foster child",
-  "Variable Name": "SrvBOH_AdoptFost_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "ADOPTFOST",
-  "Variable Type": "Num",
-  "Variable Length": 1,
+  "234119": "129084651.json",
+  "conceptId": "535621923",
+  "Primary Source": "898006288.json",
+  "Source Question": "Were you adopted or a foster child?",
+  "Question Text": "Adopted, foster child",
+  "Variable Label": "SrvBOH_AdoptFost_v1r0",
+  "Variable Name": "ADOPTFOST",
+  "Connect Value for Select all that apply questions": "Num",
+  "Variable Type": "1",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
   "Old Quest Value": [
-    "0 = No",
-    "1 = Yes"
+    "849782366.json",
+    "950321661.json"
   ],
   "Connect Value": [
-    "104430631.json",
-    "353358909.json"
+    "0",
+    "1"
   ],
-  "Connect Id Array": [
-    0,
-    1
-  ],
+  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "No",
   "@context": ""
 }

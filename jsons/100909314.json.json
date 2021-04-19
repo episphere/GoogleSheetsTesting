@@ -1,0 +1,21 @@
+{
+  "234119": "263165600.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Sign in",
+  "Question Text": "Site reported sex",
+  "Variable Label": "Site reported sex",
+  "Variable Name": "RcrtSI_Sex_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "Female",
+    "Male",
+    "Intersex or other",
+    "Unavailable/Unknown"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "100909314.json",
+  "@context": ""
+}

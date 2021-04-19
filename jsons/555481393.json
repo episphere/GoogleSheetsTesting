@@ -1,35 +1,35 @@
 {
-  "conceptId": 555481393,
-  "Primary Source": "129084651.json",
-  "Secondary Source": "898006288.json",
-  "Question Text": "Do you think of yourself as:",
-  "Variable Label": "Sexual orientation",
-  "Variable Name": "SrvBOH_SexOrient_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SEXORIENT",
-  "Variable Type": "Num",
-  "Variable Length": 2,
+  "234119": "129084651.json",
+  "conceptId": "555481393",
+  "Primary Source": "898006288.json",
+  "Source Question": "Do you think of yourself as:",
+  "Question Text": "Sexual orientation",
+  "Variable Label": "SrvBOH_SexOrient_v1r0",
+  "Variable Name": "SEXORIENT",
+  "Connect Value for Select all that apply questions": "Num",
+  "Variable Type": "2",
+  "Format/Value": [
+    "Straight or heterosexual",
+    "Lesbian, gay, or homosexual",
+    "Bisexual",
+    "Something else: Please describe [text box]",
+    "Prefer not to answer"
+  ],
   "Old Quest Value": [
-    "1 = Straight or heterosexual",
-    "2 = Lesbian, gay, or homosexual",
-    "3 = Bisexual",
-    "4 = Something else: Please describe [text box]",
-    "5 = Prefer not to answer"
+    "760656503.json",
+    "187937403.json",
+    "682541669.json",
+    "795597832.json",
+    "475577605.json"
   ],
   "Connect Value": [
-    "271882746.json",
-    "903084185.json",
-    "999994434.json",
-    "481662922.json",
-    "746038746.json"
+    "0",
+    "1",
+    "2",
+    "3",
+    "99"
   ],
-  "Connect Id Array": [
-    0,
-    1,
-    2,
-    3,
-    99
-  ],
+  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "No",
   "@context": ""
 }

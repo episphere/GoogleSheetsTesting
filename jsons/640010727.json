@@ -1,30 +1,30 @@
 {
-  "conceptId": 640010727,
-  "Primary Source": "129084651.json",
-  "Secondary Source": "898006288.json",
-  "Question Text": "Child 1- How old is [CHILD INITIALS OR NICKNAME/your CHILD] today?",
-  "Variable Label": "Child 1 age, other",
-  "Variable Name": "SrvBOH_Child1AgeOther_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CHILDAGE",
-  "Variable Type": "Num",
-  "Variable Length": 2,
+  "234119": "129084651.json",
+  "conceptId": "640010727",
+  "Primary Source": "898006288.json",
+  "Source Question": "Child 1- How old is [CHILD INITIALS OR NICKNAME/your CHILD] today?",
+  "Question Text": "Child 1 age, other",
+  "Variable Label": "SrvBOH_Child1AgeOther_v1r0",
+  "Variable Name": "CHILDAGE",
+  "Connect Value for Select all that apply questions": "Num",
+  "Variable Type": "2",
+  "Format/Value": [
+    "Less than 1 year",
+    "Don't know"
+  ],
   "Old Quest Value": [
-    "1 = Less than 1 year",
-    "99= Don't know"
+    "381021164.json",
+    "577516561.json"
   ],
   "Connect Value": [
-    "958239616.json",
-    "178420302.json"
+    "0",
+    "77"
   ],
   "Connect Id Array": [
-    0,
-    77
-  ],
-  "Required": [
     "No",
     "No"
   ],
-  "PII": [
+  "Required": [
     "No",
     "No"
   ],

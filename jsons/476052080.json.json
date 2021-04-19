@@ -1,0 +1,19 @@
+{
+  "234119": "879732459.json",
+  "Primary Source": "819848608.json",
+  "Secondary Source": "Specimen Link",
+  "Question Text": "Accession ID Manually Entered",
+  "Variable Label": "Accession ID Manually Entered",
+  "Variable Name": "BioSpm_AccIDEntered_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "Yes if manually entered",
+  "PII": "No",
+  "Dictionary": "Biospecimen Clinical",
+  "conceptId": "476052080.json",
+  "@context": ""
+}

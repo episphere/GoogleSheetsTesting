@@ -1,25 +1,25 @@
 {
-  "conceptId": 745065357,
-  "Primary Source": "129084651.json",
-  "Secondary Source": "898006288.json",
-  "QuestID - radio button or multi-answer format questions questions.": "BSNSSTYP1",
-  "Source Question": "530742915.json",
-  "Question Text": "Some other type of business",
-  "Variable Label": "Other",
-  "Variable Name": "SrvBOH_OtherBusinessC_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": 13,
-  "Connect Value for Select all that apply questions": 55,
-  "Variable Type": "Num",
-  "Variable Length": 1,
+  "234119": "129084651.json",
+  "conceptId": "745065357",
+  "Primary Source": "898006288.json",
+  "Secondary Source": "BSNSSTYP1",
+  "QuestID - radio button or multi-answer format questions questions.": "530742915.json",
+  "Source Question": "Some other type of business",
+  "Question Text": "Other",
+  "Variable Label": "SrvBOH_OtherBusinessC_v1r0",
+  "Variable Name": "13",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "55",
+  "Connect Value for Select all that apply questions": "Num",
+  "Variable Type": "1",
+  "Old Quest Value": [
+    "794342870.json",
+    "217433442.json"
+  ],
   "Connect Value": [
-    "104430631.json",
-    "353358909.json"
+    "0",
+    "1"
   ],
-  "Connect Id Array": [
-    0,
-    1
-  ],
+  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "No",
   "@context": ""
 }

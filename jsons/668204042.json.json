@@ -1,0 +1,20 @@
+{
+  "234119": "775646830.json",
+  "Primary Source": "237817859.json",
+  "Secondary Source": "Refusal",
+  "Question Text": "I do not like to do things online",
+  "Variable Label": "Does not like to do things online",
+  "Variable Name": "HdRef_DislikeOnline_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Dictionary": "Master Data Dictionary",
+  "Date added or modified": "Wed Mar 24 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
+  "conceptId": "668204042.json",
+  "@context": ""
+}

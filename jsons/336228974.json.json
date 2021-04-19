@@ -1,0 +1,20 @@
+{
+  "234119": "580377586.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Eligibility Screener",
+  "Source Question": "How did you hear about this study? (Select all that apply)",
+  "Question Text": "Family or friend",
+  "Variable Label": "Family or friend",
+  "Variable Name": "RcrtES_Aware_v1r0_Family",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "No",
+  "PII": "No",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "336228974.json",
+  "@context": ""
+}

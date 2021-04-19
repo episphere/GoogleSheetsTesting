@@ -1,0 +1,20 @@
+{
+  "234119": "832908378.json",
+  "Primary Source": "819848608.json",
+  "Secondary Source": "Specimen Link",
+  "Question Text": "Select Hawaiian Island from drop down menu",
+  "Variable Label": "Select Hawaiian Island",
+  "Variable Name": "BioSpm_HIIsland_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "Oahu",
+    "Non-Oahu"
+  ],
+  "Required": "Yes for KPHI",
+  "PII": "No",
+  "Notes": "Display for KPHI only",
+  "Dictionary": "Biospecimen Clinical",
+  "conceptId": "340124610.json",
+  "@context": ""
+}

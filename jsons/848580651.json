@@ -1,28 +1,28 @@
 {
-  "conceptId": 848580651,
-  "Primary Source": "129084651.json",
-  "Secondary Source": "898006288.json",
-  "Question Text": "Are you shorter now than when you were in your 20s and 30s?",
-  "Variable Label": "Shorter now than 20s",
-  "Variable Name": "SrvBOH_ShorterNow_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SHORTER",
-  "Variable Type": "Num",
+  "234119": "129084651.json",
+  "conceptId": "848580651",
+  "Primary Source": "898006288.json",
+  "Source Question": "Are you shorter now than when you were in your 20s and 30s?",
+  "Question Text": "Shorter now than 20s",
+  "Variable Label": "SrvBOH_ShorterNow_v1r0",
+  "Variable Name": "SHORTER",
+  "Connect Value for Select all that apply questions": "Num",
+  "Format/Value": [
+    "No",
+    "A little shorter",
+    "A lot shorter"
+  ],
   "Old Quest Value": [
-    "1 =No",
-    "2 = A little shorter",
-    "3 = A lot shorter"
+    "794342870.json",
+    "463923181.json",
+    "375307869.json"
   ],
   "Connect Value": [
-    "104430631.json",
-    "589959753.json",
-    "623310018.json"
+    "0",
+    "1",
+    "2"
   ],
-  "Connect Id Array": [
-    0,
-    1,
-    2
-  ],
+  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "No",
   "@context": ""
 }

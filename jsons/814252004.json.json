@@ -1,0 +1,18 @@
+{
+  "234119": "134803017.json",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "Blood/Urine",
+  "Question Text": "Blood/urine survey completion",
+  "Variable Label": "Placeholder- flag for blood/urine survey",
+  "Variable Name": "SrvBlU_BaseComplete_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "Not Started",
+    "Started",
+    "Submitted"
+  ],
+  "Dictionary": "Biospecimen Research",
+  "conceptId": "814252004.json",
+  "@context": ""
+}

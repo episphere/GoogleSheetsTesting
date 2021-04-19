@@ -1,0 +1,19 @@
+{
+  "234119": "850976734.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Sign in",
+  "Question Text": "PIN/Token Workflow for HP",
+  "Variable Label": "Workflow Type",
+  "Variable Name": "RcrtSI_WorkflowType_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "Letter without PIN",
+    "Letter with PIN"
+  ],
+  "Required": "Yes for HP",
+  "PII": "No",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "922701476.json",
+  "@context": ""
+}

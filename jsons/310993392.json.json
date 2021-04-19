@@ -1,0 +1,27 @@
+{
+  "234119": "799517159.json",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "Background and Overall Health",
+  "Question Text": "Based on the information you provided when you enrolled in this study, you are [Age from Enrollment Questionnaire] years old today. Is that correct?",
+  "Variable Label": "Age confirmation",
+  "Variable Name": "SrvBOH_AgeCon_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "AGECOR",
+  "Variable Type": "Num",
+  "Variable Length": "1",
+  "Old Quest Value": [
+    "501288868.json",
+    "810987932.json"
+  ],
+  "Connect Value": [
+    "No",
+    "Yes"
+  ],
+  "Connect Id Array": [
+    "0",
+    "1"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "conceptId": "310993392.json",
+  "@context": ""
+}

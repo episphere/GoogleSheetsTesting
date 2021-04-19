@@ -1,0 +1,21 @@
+{
+  "234119": "805701409.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Sign in",
+  "Question Text": "IHCS Membership Status",
+  "Variable Label": "IHCS Membership Status",
+  "Variable Name": "RcrtSI_MemberStat_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "Member of IHCS Health Plan",
+    "Non-Member IHCS Patient",
+    "Member and Patient of IHCS Health Plan"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Notes": "Sent with de-identified individual demographic variables when participants moved from Eligibility pool to active recruits with submitParticipantsData API call.",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "716793103.json",
+  "@context": ""
+}

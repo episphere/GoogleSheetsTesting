@@ -1,0 +1,16 @@
+{
+  "234119": "226908083.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Eligibility Screener",
+  "Question Text": "Enter your Pin number",
+  "Variable Label": "PIN entered",
+  "Variable Name": "RcrtES_PIN_v1r0",
+  "Variable Type": "Char",
+  "Variable Length": "6",
+  "Format/Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "Dictionary": "Recruitment Data Dictionary",
+  "conceptId": "370123810.json",
+  "@context": ""
+}

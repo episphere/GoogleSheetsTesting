@@ -1,0 +1,30 @@
+{
+  "234119": "122667890.json",
+  "Primary Source": "192505768.json",
+  "Secondary Source": "Eligibility Screener",
+  "Question Text": "Healthcare provider",
+  "Variable Label": "Site",
+  "Variable Name": "RcrtES_Site_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "156095877.json",
+  "Format/Value": [
+    "HealthPartners",
+    "Henry Ford Health System",
+    "Kaiser Permanente Colorado",
+    "Kaiser Permanente Georgia",
+    "Kaiser Permanente Hawaii",
+    "Kaiser Permanente Northwest",
+    "Marshfield Clinic Health System",
+    "Sanford Health",
+    "University of Chicago Medicine",
+    "National Cancer Institute",
+    "Other"
+  ],
+  "Required": "Yes -  if there is not a valid token or PIN",
+  "PII": "No",
+  "Notes": "The National Cancer Institute is included as a site for testing purposes only.",
+  "Dictionary": "Recruitment Data Dictionary",
+  "Date added or modified": "Thu Mar 25 2021 00:00:00 GMT-0400 (Eastern Daylight Time)",
+  "conceptId": "602368838.json",
+  "@context": ""
+}

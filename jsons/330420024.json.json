@@ -1,0 +1,20 @@
+{
+  "234119": "151420598.json",
+  "Primary Source": "819848608.json",
+  "Secondary Source": "Shipping - Pack box",
+  "Question Text": "Tube not in bag",
+  "Variable Label": "Tube not in bag",
+  "Variable Name": "BioPack_TubeNotBag_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "132198728.json",
+  "Format/Value": [
+    "No",
+    "Yes"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Notes": "Default no",
+  "Dictionary": "Biospecimen Shipping",
+  "conceptId": "330420024.json",
+  "@context": ""
+}
