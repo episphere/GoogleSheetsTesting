@@ -1,28 +1,28 @@
 {
-  "234119": "129084651.json",
   "conceptId": "378892977",
-  "Primary Source": "898006288.json",
-  "Source Question": "Which of these best describes the type of ovary removal surgery that you had?",
-  "Question Text": "ovary surgery",
-  "Variable Label": "SrvBOH_OvarySurg_v1r0",
-  "Variable Name": "OVARYREM",
-  "Connect Value for Select all that apply questions": "Num",
-  "Format/Value": [
-    "I had surgery to remove one ovary",
-    "I had surgery to remove both ovaries",
-    "None of the above"
-  ],
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "Which of these best describes the type of ovary removal surgery that you had?",
+  "Variable Label": "ovary surgery",
+  "Variable Name": "SrvBOH_OvarySurg_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "OVARYREM",
+  "Variable Type": "Num",
   "Old Quest Value": [
-    "209730057.json",
-    "706274359.json",
-    "522983593.json"
+    "1 = I had surgery to remove one ovary",
+    "2 =I had surgery to remove both ovaries",
+    "3 = None of the above"
   ],
   "Connect Value": [
+    "333647143.json",
+    "109972911.json",
+    "398561594.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1",
     "88"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

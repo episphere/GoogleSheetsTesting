@@ -1,28 +1,28 @@
 {
-  "234119": "129084651.json",
   "conceptId": "952682839",
-  "Primary Source": "898006288.json",
-  "Source Question": "In the past three months, how much did the pain get in the way of your normal work? By work, we mean both housework and work outside of the home.",
-  "Question Text": "Pain affect work",
-  "Variable Label": "SrvBOH_PainAffectWork_v1r0",
-  "Variable Name": "PAIN3",
-  "Connect Value for Select all that apply questions": "Num",
-  "Format/Value": [
-    "Not at all",
-    "A little bit",
-    "A lot"
-  ],
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "In the past three months, how much did the pain get in the way of your normal work? By work, we mean both housework and work outside of the home.",
+  "Variable Label": "Pain affect work",
+  "Variable Name": "SrvBOH_PainAffectWork_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "PAIN3",
+  "Variable Type": "Num",
   "Old Quest Value": [
-    "441737693.json",
-    "225594079.json",
-    "935355263.json"
+    "1 =Not at all",
+    "2 = A little bit",
+    "3 = A lot"
   ],
   "Connect Value": [
+    "111520945.json",
+    "548628123.json",
+    "597477164.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1",
     "2"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

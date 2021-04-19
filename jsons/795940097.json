@@ -1,14 +1,14 @@
 {
-  "234119": "129084651.json",
   "conceptId": "795940097",
-  "Primary Source": "898006288.json",
-  "Source Question": "How many blood transfusions have you had in total?",
-  "Question Text": "Number of blood transfusions",
-  "Variable Label": "SrvBOH_BloodTransNum_v1r0",
-  "Variable Name": "BLDTRANS2",
-  "Connect Value for Select all that apply questions": "Num",
-  "Old Quest Value": "N/A",
-  "Connect Id Array": "No",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "How many blood transfusions have you had in total?",
+  "Variable Label": "Number of blood transfusions",
+  "Variable Name": "SrvBOH_BloodTransNum_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "BLDTRANS2",
+  "Variable Type": "Num",
+  "Connect Value": "N/A",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

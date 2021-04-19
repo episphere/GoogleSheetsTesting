@@ -1,29 +1,29 @@
 {
-  "234119": "129084651.json",
   "conceptId": "873968217",
-  "Primary Source": "898006288.json",
-  "Source Question": "Child 1- Is [child initials or nickname/your child]???",
-  "Question Text": "Child 1 full/half",
-  "Variable Label": "SrvBOH_Child1FullHalf_v1r0",
-  "Variable Name": "CHILD3",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "2",
-  "Format/Value": [
-    "Your biological child",
-    "Adopted",
-    "A step child"
-  ],
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "Child 1- Is [child initials or nickname/your child]???",
+  "Variable Label": "Child 1 full/half",
+  "Variable Name": "SrvBOH_Child1FullHalf_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CHILD3",
+  "Variable Type": "Num",
+  "Variable Length": "2",
   "Old Quest Value": [
-    "672128828.json",
-    "999664961.json",
-    "886803871.json"
+    "1 = Your biological child",
+    "2 = Adopted",
+    "3 = A step child"
   ],
   "Connect Value": [
+    "709650750.json",
+    "810290359.json",
+    "509607548.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1",
     "2"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

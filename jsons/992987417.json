@@ -1,32 +1,32 @@
 {
-  "234119": "129084651.json",
   "conceptId": "992987417",
-  "Primary Source": "898006288.json",
-  "Source Question": "Were you born a twin, triplet, or other multiple?",
-  "Question Text": "Twin, multiple",
-  "Variable Label": "SrvBOH_Multbirth_v1r0",
-  "Variable Name": "MULTBIRTH",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "2",
-  "Format/Value": [
-    "No",
-    "Yes",
-    "Yes, fraternal twins (not identical)",
-    "Yes, triplets or higher multiple birth"
-  ],
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "Were you born a twin, triplet, or other multiple?",
+  "Variable Label": "Twin, multiple",
+  "Variable Name": "SrvBOH_Multbirth_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "MULTBIRTH",
+  "Variable Type": "Num",
+  "Variable Length": "2",
   "Old Quest Value": [
-    "794342870.json",
-    "217433442.json",
-    "767527437.json",
-    "416228330.json"
+    "0=No",
+    "1=Yes",
+    "2 = Yes, fraternal twins (not identical)",
+    "3 =Yes, triplets or higher multiple birth"
   ],
   "Connect Value": [
+    "104430631.json",
+    "353358909.json",
+    "288105839.json",
+    "626558982.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1",
     "2",
     "3"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

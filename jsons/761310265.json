@@ -1,14 +1,14 @@
 {
-  "234119": "129084651.json",
   "conceptId": "761310265",
-  "Primary Source": "898006288.json",
-  "Source Question": "Please identify the occupation category that best describes this job.",
-  "Question Text": "Current occupation category",
-  "Variable Label": "SrvBOH_OccupationCat_v1r0",
-  "Variable Name": "OCCUPTN1",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "2",
-  "Connect Id Array": "No",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "Please identify the occupation category that best describes this job.",
+  "Variable Label": "Current occupation category",
+  "Variable Name": "SrvBOH_OccupationCat_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "OCCUPTN1",
+  "Variable Type": "Num",
+  "Variable Length": "2",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

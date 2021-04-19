@@ -1,26 +1,26 @@
 {
-  "234119": "129084651.json",
   "conceptId": "492902023",
-  "Primary Source": "898006288.json",
-  "Secondary Source": "BREASTSUR",
-  "QuestID - radio button or multi-answer format questions questions.": "517307064.json",
-  "Source Question": "Removal of a part of my breast tissue (breast-conserving surgery (BCS), lumpectomy, partial mastectomy, or segmental mastectomy)",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "BREASTSUR",
+  "Source Question": "517307064.json",
   "Question Text": "Removal of a part of my breast tissue (breast-conserving surgery (BCS), lumpectomy, partial mastectomy, or segmental mastectomy)",
-  "Variable Label": "SrvBOH_BreastPartRem_v1r0",
-  "Variable Name": "5",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "4",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "1",
-  "Old Quest Value": [
-    "849782366.json",
-    "950321661.json"
-  ],
+  "Variable Label": "Removal of a part of my breast tissue (breast-conserving surgery (BCS), lumpectomy, partial mastectomy, or segmental mastectomy)",
+  "Variable Name": "SrvBOH_BreastPartRem_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "5",
+  "Connect Value for Select all that apply questions": "4",
+  "Variable Type": "Num",
+  "Variable Length": "1",
   "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "Only display if MHGROUP9 = breast surgery",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP9 = breast surgery",
   "@context": ""
 }

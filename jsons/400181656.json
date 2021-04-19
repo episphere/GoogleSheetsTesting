@@ -1,0 +1,16 @@
+{
+  "conceptId": "400181656",
+  "Primary Source": "819848608.json",
+  "Secondary Source": "520808137.json",
+  "Question Text": "Shipment feedback comments",
+  "Variable Label": "Shipment feedback comments",
+  "Variable Name": "BioFB_ShipFBNote_v1r0",
+  "Variable Type": "Char",
+  "Variable Length": "800",
+  "Format/Value": "N/A",
+  "Required": "No",
+  "PII": "No",
+  "Notes": "Placeholders for possible comment fields to be added to the packing/shipping workflow.",
+  "Dictionary": "Biospecimen Shipping",
+  "@context": ""
+}

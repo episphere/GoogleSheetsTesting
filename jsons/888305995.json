@@ -1,0 +1,19 @@
+{
+  "conceptId": "888305995",
+  "Primary Source": "819848608.json",
+  "Secondary Source": "104913069.json",
+  "Question Text": "Participant Left Without Providing Sample",
+  "Variable Label": "Participant Left Without Providing Sample",
+  "Variable Name": "BioFin_PartLeft_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "1",
+  "Format/Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Notes": "Default is no",
+  "Dictionary": "Biospecimen Research",
+  "@context": ""
+}

@@ -1,32 +1,32 @@
 {
-  "234119": "129084651.json",
   "conceptId": "289664241",
-  "Primary Source": "898006288.json",
-  "Source Question": "Do you think of yourself as:",
-  "Question Text": "Gender",
-  "Variable Label": "SrvBOH_Gender_v1r0",
-  "Variable Name": "GEN",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "2",
-  "Format/Value": [
-    "Male",
-    "Female",
-    "Transgender Male/Trans Man/Female-to-Male (FTM)",
-    "Transgender Female/Trans Woman/Male-to-Female (MTF)",
-    "Genderqueer, not exclusively male or female",
-    "Additional gender category: Please describe [text box]",
-    "Prefer not to answer"
-  ],
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "Do you think of yourself as:",
+  "Variable Label": "Gender",
+  "Variable Name": "SrvBOH_Gender_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "GEN",
+  "Variable Type": "Num",
+  "Variable Length": "2",
   "Old Quest Value": [
-    "539509951.json",
-    "766216096.json",
-    "143191673.json",
-    "662823317.json",
-    "705106134.json",
-    "861618750.json",
-    "475577605.json"
+    "1 = Male",
+    "2 = Female",
+    "3 = Transgender Male/Trans Man/Female-to-Male (FTM)",
+    "4 = Transgender Female/Trans Woman/Male-to-Female (MTF)",
+    "5 = Genderqueer, not exclusively male or female",
+    "6 = Additional gender category: Please describe [text box]",
+    "99 = Prefer not to answer"
   ],
   "Connect Value": [
+    "536341288.json",
+    "654207589.json",
+    "405267600.json",
+    "873138103.json",
+    "805712793.json",
+    "438483626.json",
+    "746038746.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1",
     "2",
@@ -35,7 +35,7 @@
     "55",
     "99"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

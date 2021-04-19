@@ -1,27 +1,27 @@
 {
-  "234119": "129084651.json",
   "conceptId": "134642404",
-  "Primary Source": "898006288.json",
-  "Source Question": "When you were told that you have or had fibrocystic breasts, or other benign breast disease, was it confirmed by biopsy?",
-  "Question Text": "Breast disease biopsy",
-  "Variable Label": "SrvBOH_BreastBiopsy_v1r0",
-  "Variable Name": "BREASTDIS2",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "1",
-  "Format/Value": [
-    "No",
-    "Yes"
-  ],
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "When you were told that you have or had fibrocystic breasts, or other benign breast disease, was it confirmed by biopsy?",
+  "Variable Label": "Breast disease biopsy",
+  "Variable Name": "SrvBOH_BreastBiopsy_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "BREASTDIS2",
+  "Variable Type": "Num",
+  "Variable Length": "1",
   "Old Quest Value": [
-    "794342870.json",
-    "217433442.json"
+    "1 = No",
+    "2 = Yes"
   ],
   "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "Only display if MHGROUP8= Fibrocystic Breast, or other Benign Breast Disease",
+  "PII": "No",
+  "Notes": "Only display if MHGROUP8= Fibrocystic Breast, or other Benign Breast Disease",
   "@context": ""
 }

@@ -1,28 +1,28 @@
 {
-  "234119": "129084651.json",
   "conceptId": "820324171",
-  "Primary Source": "898006288.json",
-  "Source Question": "When you were about 10 years old, compared to average, would you describe yourself as???",
-  "Question Text": "10 year old weight",
-  "Variable Label": "SrvBOH_10YrWeight_v1r0",
-  "Variable Name": "AVEWEIGHT",
-  "Connect Value for Select all that apply questions": "Num",
-  "Format/Value": [
-    "Thinner than average",
-    "About average build",
-    "Heavier than average"
-  ],
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "When you were about 10 years old, compared to average, would you describe yourself as???",
+  "Variable Label": "10 year old weight",
+  "Variable Name": "SrvBOH_10YrWeight_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "AVEWEIGHT",
+  "Variable Type": "Num",
   "Old Quest Value": [
-    "357316854.json",
-    "396439394.json",
-    "852232199.json"
+    "1 = Thinner than average",
+    "2 = About average build",
+    "3 = Heavier than average"
   ],
   "Connect Value": [
+    "176904165.json",
+    "902131456.json",
+    "839266527.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1",
     "2"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

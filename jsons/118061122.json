@@ -1,14 +1,14 @@
 {
-  "234119": "129084651.json",
   "conceptId": "118061122",
-  "Primary Source": "898006288.json",
-  "Source Question": "What was your longest-held job? Please be descriptive. For example, high school math teacher, emergency room nurse, automobile painter.",
-  "Question Text": "Past job title",
-  "Variable Label": "SrvBOH_PastJobTitle_v1r0",
-  "Variable Name": "WORK7",
-  "Connect Value for Select all that apply questions": "Char",
-  "Old Quest Value": "N/A",
-  "Connect Id Array": "No",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "What was your longest-held job? Please be descriptive. For example, high school math teacher, emergency room nurse, automobile painter.",
+  "Variable Label": "Past job title",
+  "Variable Name": "SrvBOH_PastJobTitle_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "WORK7",
+  "Variable Type": "Char",
+  "Connect Value": "N/A",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

@@ -1,25 +1,25 @@
 {
-  "234119": "129084651.json",
   "conceptId": "875057149",
-  "Primary Source": "898006288.json",
-  "Secondary Source": "BREASTSUR",
-  "QuestID - radio button or multi-answer format questions questions.": "517307064.json",
-  "Source Question": "None of the above",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "BREASTSUR",
+  "Source Question": "517307064.json",
   "Question Text": "None of the above",
-  "Variable Label": "SrvBOH_BreastSurgNone_v1r0",
-  "Variable Name": "99",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "88",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "1",
-  "Old Quest Value": [
-    "849782366.json",
-    "950321661.json"
-  ],
+  "Variable Label": "None of the above",
+  "Variable Name": "SrvBOH_BreastSurgNone_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "99",
+  "Connect Value for Select all that apply questions": "88",
+  "Variable Type": "Num",
+  "Variable Length": "1",
   "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

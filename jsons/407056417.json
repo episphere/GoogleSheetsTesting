@@ -1,29 +1,29 @@
 {
-  "234119": "129084651.json",
   "conceptId": "407056417",
-  "Primary Source": "898006288.json",
-  "Source Question": "What was your biological sex assigned at birth?",
-  "Question Text": "Sex at birth",
-  "Variable Label": "SrvBOH_SexAtBirth_v1r0",
-  "Variable Name": "SEX",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "2",
-  "Format/Value": [
-    "Female",
-    "Male",
-    "Intersex or other"
-  ],
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "What was your biological sex assigned at birth?",
+  "Variable Label": "Sex at birth",
+  "Variable Name": "SrvBOH_SexAtBirth_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "SEX",
+  "Variable Type": "Num",
+  "Variable Length": "2",
   "Old Quest Value": [
-    "539509951.json",
-    "766216096.json",
-    "396211950.json"
+    "1 = Female",
+    "2 = Male",
+    "3 = Intersex or other"
   ],
   "Connect Value": [
+    "536341288.json",
+    "654207589.json",
+    "576796184.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1",
     "2"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

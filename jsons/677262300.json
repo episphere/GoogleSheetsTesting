@@ -1,14 +1,14 @@
 {
-  "234119": "129084651.json",
   "conceptId": "677262300",
-  "Primary Source": "898006288.json",
-  "Source Question": "How old were you when you reached your adult height? If you are not sure, please make your best guess.",
-  "Question Text": "Reach adult height",
-  "Variable Label": "SrvBOH_AdultHt_v1r0",
-  "Variable Name": "ADUHEIGHT",
-  "Connect Value for Select all that apply questions": "Num",
-  "Old Quest Value": "N/A",
-  "Connect Id Array": "No",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "Question Text": "How old were you when you reached your adult height? If you are not sure, please make your best guess.",
+  "Variable Label": "Reach adult height",
+  "Variable Name": "SrvBOH_AdultHt_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "ADUHEIGHT",
+  "Variable Type": "Num",
+  "Connect Value": "N/A",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

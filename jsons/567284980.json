@@ -1,25 +1,25 @@
 {
-  "234119": "129084651.json",
   "conceptId": "567284980",
-  "Primary Source": "898006288.json",
-  "Secondary Source": "MHGROUP3",
-  "QuestID - radio button or multi-answer format questions questions.": "180961306.json",
-  "Source Question": "Ulcerative Colitis",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "MHGROUP3",
+  "Source Question": "180961306.json",
   "Question Text": "Ulcerative Colitis",
-  "Variable Label": "SrvBOH_UC_v1r0",
-  "Variable Name": "6",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "5",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "1",
-  "Old Quest Value": [
-    "794342870.json",
-    "217433442.json"
-  ],
+  "Variable Label": "Ulcerative Colitis",
+  "Variable Name": "SrvBOH_UC_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "6",
+  "Connect Value for Select all that apply questions": "5",
+  "Variable Type": "Num",
+  "Variable Length": "1",
   "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

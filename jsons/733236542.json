@@ -1,25 +1,25 @@
 {
-  "234119": "129084651.json",
   "conceptId": "733236542",
-  "Primary Source": "898006288.json",
-  "Secondary Source": "MHGROUP9",
-  "QuestID - radio button or multi-answer format questions questions.": "624179836.json",
-  "Source Question": "Prostate removed (prostatectomy)",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "MHGROUP9",
+  "Source Question": "624179836.json",
   "Question Text": "Prostate removed (prostatectomy)",
-  "Variable Label": "SrvBOH_Prostatectomy_v1r0",
-  "Variable Name": "13",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "12",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "1",
-  "Old Quest Value": [
-    "794342870.json",
-    "217433442.json"
-  ],
+  "Variable Label": "Prostate removed (prostatectomy)",
+  "Variable Name": "SrvBOH_Prostatectomy_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "13",
+  "Connect Value for Select all that apply questions": "12",
+  "Variable Type": "Num",
+  "Variable Length": "1",
   "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
+  "PII": "No",
   "@context": ""
 }

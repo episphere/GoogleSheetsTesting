@@ -1,26 +1,26 @@
 {
-  "234119": "129084651.json",
   "conceptId": "108025529",
-  "Primary Source": "898006288.json",
-  "Secondary Source": "SEX2",
-  "QuestID - radio button or multi-answer format questions questions.": "750420077.json",
-  "Source Question": "Fallopian Tubes",
+  "Primary Source": "129084651.json",
+  "Secondary Source": "898006288.json",
+  "QuestID - radio button or multi-answer format questions questions.": "SEX2",
+  "Source Question": "750420077.json",
   "Question Text": "Fallopian Tubes",
-  "Variable Label": "SrvBOH_FallTube_v1r0",
-  "Variable Name": "8",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "7",
-  "Connect Value for Select all that apply questions": "Num",
-  "Variable Type": "1",
-  "Old Quest Value": [
-    "794342870.json",
-    "217433442.json"
-  ],
+  "Variable Label": "Fallopian Tubes",
+  "Variable Name": "SrvBOH_FallTube_v1r0",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "8",
+  "Connect Value for Select all that apply questions": "7",
+  "Variable Type": "Num",
+  "Variable Length": "1",
   "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Connect Id Array": [
     "0",
     "1"
   ],
-  "Connect Id Array": "No",
   "Required": "No",
-  "PII": "Only display if SEX=Intersex or other",
+  "PII": "No",
+  "Notes": "Only display if SEX=Intersex or other",
   "@context": ""
 }

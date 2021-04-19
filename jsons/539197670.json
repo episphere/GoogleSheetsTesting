@@ -1,0 +1,18 @@
+{
+  "conceptId": "539197670",
+  "Primary Source": "819848608.json",
+  "Secondary Source": "360770860.json",
+  "Question Text": "Regional Lab Receipt",
+  "Variable Label": "Regional Lab Receipt",
+  "Variable Name": "BioReg_AtReg_v1r0",
+  "Variable Type": "Num",
+  "Variable Length": "1",
+  "Format/Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
+  "Required": "Yes",
+  "PII": "No",
+  "Dictionary": "Biospecimen Clinical",
+  "@context": ""
+}
