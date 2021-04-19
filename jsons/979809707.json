@@ -2,6 +2,7 @@
   "conceptId": "979809707",
   "Primary Source": "129084651.json",
   "Secondary Source": "898006288.json",
+  "Source Question": "SEXORIENT",
   "Question Text": "Do you think of yourself as:",
   "Variable Label": "Sexual orientation",
   "Variable Name": "SrvBOH_SexOrientDesc_v1r0",
