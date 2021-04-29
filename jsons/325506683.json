@@ -11,7 +11,10 @@
   "Connect Value for Select all that apply questions": "1",
   "Variable Type": "Num",
   "Variable Length": "3",
-  "Connect Value": "N/A",
+  "Connect Value": [
+    "104430631.json",
+    "353358909.json"
+  ],
   "Required": "No",
   "PII": "No",
   "Notes": "Only display if MHGROUP9 = breast surgery",
