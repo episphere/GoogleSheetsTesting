@@ -7,7 +7,7 @@
   "Question Text": "People in house number",
   "Variable Label": "People in house number",
   "Variable Name": "SrvBOH_PplHouse_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "PPLHOUSE",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "PPLHOUSE_NUM",
   "Variable Type": "Num",
   "Variable Length": "2",
   "Connect Value": "N/A",
