@@ -7,7 +7,7 @@
   "Question Text": "Chronic Hepatitis B or C diagnosis age",
   "Variable Label": "Chronic Hepatitis B or C diagnosis age",
   "Variable Name": "SrvBOH_HepatitisAge_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "HPVHCV_AGE",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "HBVHCV_AGE",
   "Variable Type": "Num",
   "Variable Length": "2",
   "Connect Value": "N/A",

@@ -5,7 +5,7 @@
   "Question Text": "What is your current job title????Please be descriptive. For example, high school math teacher, emergency room nurse, automobile painter.",
   "Variable Label": "Current job",
   "Variable Name": "SrvBOH_CurrentJob_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "WORK3",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "WORK3_JOBTITLE",
   "Variable Type": "Char",
   "Connect Value": "N/A",
   "Required": "No",

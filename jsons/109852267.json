@@ -7,7 +7,7 @@
   "Question Text": "Chronic Hepatitis B or C diagnosis year",
   "Variable Label": "Chronic Hepatitis B or C diagnosis year",
   "Variable Name": "SrvBOH_HepatitisYear_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "HPVHCV_YEAR",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "HBVHCV_YEAR",
   "Variable Type": "Year",
   "Variable Length": "4",
   "Connect Value": "yyyy",

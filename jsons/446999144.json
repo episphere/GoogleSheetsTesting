@@ -5,7 +5,7 @@
   "Question Text": "How many children do you have?",
   "Variable Label": "Number children",
   "Variable Name": "SrvBOH_ChildNum_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CHILD",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "CHILD1",
   "Variable Type": "Num",
   "Variable Length": "2",
   "Connect Value": "N/A",

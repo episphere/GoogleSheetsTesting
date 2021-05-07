@@ -7,7 +7,7 @@
   "Question Text": "First blood transfusion age",
   "Variable Label": "First blood transfusion age",
   "Variable Name": "SrvBOH_BloodTransAge_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "BLDTRANS_AGE",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "BLDTRANS3_AGE",
   "Variable Type": "Num",
   "Variable Length": "2",
   "Connect Value": "N/A",

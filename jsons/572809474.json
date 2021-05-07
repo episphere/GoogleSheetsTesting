@@ -7,7 +7,7 @@
   "Question Text": "Irritable Bowel Syndrome diagnosis age",
   "Variable Label": "Irritable Bowel Syndrome diagnosis age",
   "Variable Name": "SrvBOH_IBSAge_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "IBS_YEAR",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "IBS_AGE",
   "Variable Type": "Num",
   "Variable Length": "2",
   "Connect Value": "N/A",
