@@ -7,7 +7,7 @@
   "Question Text": "Enlarged Prostate age",
   "Variable Label": "Enlarged Prostate age",
   "Variable Name": "SrvBOH_EnlProstateAge_v1r0",
-  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "ENLGPROS_YEAR",
+  "QuestID for check box or single answer questions. Also includes codes for radio button questions": "ENLGPROS_AGE",
   "Variable Type": "Num",
   "Variable Length": "2",
   "Connect Value": "N/A",
